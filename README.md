@@ -1,20 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:134E6F,100:0891B2&height=180&section=header&text=Sebastian%20R.O.%20Marshall&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Hydroinformatics%20%C2%B7%20AI%2FML%20%C2%B7%20Water%20Resources&descSize=14&descColor=C5A059&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,30:333333,60:666666,100:999999&height=200&section=header&text=Sebastian%20R.O.%20Marshall&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Ph.D.%20Researcher%20%C2%B7%20Hydroinformatics%20%C2%B7%20AI%2FML&descSize=14&descColor=CCCCCC&descAlignY=56"/>
 
 <p align="center">
-<a href="mailto:xec3cr@virginia.edu">Email</a> · 
-<a href="https://www.linkedin.com/in/marshallsebastian/">LinkedIn</a> · 
-<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en">Google Scholar</a> · 
-<a href="https://orcid.org/0009-0001-0853-6200">ORCID</a> · 
-<a href="https://www.researchgate.net/profile/Sebastian-Marshall-5">ResearchGate</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=National+Water+Center+Fellow+%C2%B7+CUAHSI;Erasmus+Mundus+Scholar+%C2%B7+European+Union;CHEC+Scholar+%C2%B7+China+Harbour+Engineering;Professional+Engineer+(P.E.)+Licensed;128%2B+Citations+%C2%B7+250K%2B+Residents+Protected" alt="Typing SVG" /></a>
 </p>
 
----
+<p align="center">
+<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-333333?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>&nbsp;
+<a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-333333?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Sebastian-Marshall-5"><img src="https://img.shields.io/badge/ResearchGate-333333?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
+<a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/Space4Water-333333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjciIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41Ii8+PC9zdmc+&logoColor=white" alt="Space4Water"/></a>
+</p>
 
-Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI/ML-driven hydrological models and flood forecasting systems. My work translates to real-world resilience — from advancing NASA land surface modeling to coastal defense engineering.
+<img width="100%" src="./assets/waterfall.svg"/>
 
-> **128+ citations · 250K+ residents protected · 7 countries · P.E. Licensed**
+Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI/ML-driven hydrological models and flood forecasting systems. My work translates to real-world resilience — from advancing NASA land surface modeling to protecting 250K+ coastal residents across the Caribbean.
 
----
+> **Jamaica → France → China → USA** — Research across 7 countries · English & Mandarin Chinese (HSK 4/6)
+
+<img width="100%" src="./assets/waterfall.svg"/>
 
 ### Journey
 
@@ -22,12 +26,12 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 <sub>Graduate Research Fellow · National Water Center Innovators Fellow, CUAHSI</sub>
 
 **M.Sc.** — Hydroinformatics & Water Management · EuroAquae+ Erasmus Mundus · *2020 – 2022*
-<sub>1 of 12 Erasmus Mundus scholars selected worldwide · France · UK · Germany · GPA 3.7/4.0</sub>
+<sub>1 of 12 scholars selected worldwide · France · UK · Germany · GPA 3.7/4.0</sub>
 
 **B.Eng.** — Harbor, Waterway & Coastal Engineering · Hohai University, China · *2015 – 2020*
 <sub>CHEC Full Scholar, China Harbour Engineering Co., Americas Division · GPA 4.7/5.0</sub>
 
----
+<img width="100%" src="./assets/waterfall.svg"/>
 
 ### Research
 
@@ -37,7 +41,7 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 
 **Remote Sensing** — Satellite Hydrology · Google Earth Engine · NASA LISF
 
----
+<img width="100%" src="./assets/waterfall.svg"/>
 
 ### Publications
 
@@ -54,7 +58,7 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 
 </details>
 
----
+<img width="100%" src="./assets/waterfall.svg"/>
 
 ### Skills
 
@@ -82,7 +86,7 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 
 </details>
 
----
+<img width="100%" src="./assets/waterfall.svg"/>
 
 ### Experience
 
@@ -97,18 +101,24 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 
 <sub>ASCE · EWRI · AGU · AWWA · COPRI · JIE Jamaica</sub>
 
----
+<img width="100%" src="./assets/waterfall.svg"/>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=0891B2&icon_color=C5A059&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=999999&icon_color=666666&text_color=cccccc&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushmarshall&hide_border=true&bg_color=1a1a1a&title_color=999999&text_color=cccccc&langs_count=6&layout=compact" alt="Languages" width="100%"/>
+</p>
+
+<img width="100%" src="./assets/waterfall.svg"/>
 
 <p align="center">
 Open to collaborations in flood forecasting, coastal resilience, and remote sensing.
-<br>
-<a href="mailto:xec3cr@virginia.edu">xec3cr@virginia.edu</a> · Hydrosense Lab · University of Virginia
+<br><br>
+<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Connect-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
+<br><br>
+<sub>Hydrosense Lab · University of Virginia · Charlottesville, VA</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:134E6F,100:0D1B2A&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:999999,30:666666,60:333333,100:111111&height=120&section=footer"/>
