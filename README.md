@@ -1,54 +1,30 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,30:134E6F,60:0891B2,100:C5A059&height=220&section=header&text=Sebastian%20R.O.%20Marshall&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Ph.D.%20Researcher%20%7C%20Hydroinformatics%20%26%20AI%2FML%20in%20Water%20Resources&descSize=16&descColor=E0E0E0&descAlignY=55"/>
 
-<div align="center">
+<h4 align="center">
+  National Water Center Innovators Fellow · Erasmus Mundus Scholar · CHEC Scholar · P.E. Licensed Engineer
+</h4>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&duration=2500&color=0891B2&center=true&vCenter=true&width=600&lines=National+Water+Center+Innovators+Fellow+%E2%80%A2+CUAHSI;Erasmus+Mundus+Scholar+%E2%80%A2+European+Union;CHEC+Scholar+%E2%80%A2+China+Harbour+Engineering+Co.;Graduate+Research+Assistant+%E2%80%A2+University+of+Virginia;Hydrosense+%E2%80%94+Global+Hydrology+%26+Water+Resources)](https://git.io/typing-svg)
-
-<a href="mailto:xec3cr@virginia.edu"><img src="https://img.shields.io/badge/Email-xec3cr@virginia.edu-0D1B2A?style=flat&logo=gmail&logoColor=C5A059" alt="Email"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Marshall-0D1B2A?style=flat&logo=linkedin&logoColor=0891B2" alt="LinkedIn"/></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-0D1B2A?style=flat&logo=googlescholar&logoColor=C5A059" alt="Scholar"/></a>&nbsp;
-<a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-0009--0001--0853--6200-0D1B2A?style=flat&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Sebastian-Marshall-5"><img src="https://img.shields.io/badge/ResearchGate-Profile-0D1B2A?style=flat&logo=researchgate&logoColor=00CCBB" alt="ResearchGate"/></a>
-
-</div>
+<p align="center">
+  <a href="mailto:xec3cr@virginia.edu"><img src="https://img.shields.io/badge/Email-xec3cr@virginia.edu-0D1B2A?style=flat&logo=gmail&logoColor=C5A059" alt="Email"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Marshall-0D1B2A?style=flat&logo=linkedin&logoColor=0891B2" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-0D1B2A?style=flat&logo=googlescholar&logoColor=C5A059" alt="Scholar"/></a>&nbsp;
+  <a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-0009--0001--0853--6200-0D1B2A?style=flat&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Sebastian-Marshall-5"><img src="https://img.shields.io/badge/ResearchGate-Profile-0D1B2A?style=flat&logo=researchgate&logoColor=00CCBB" alt="ResearchGate"/></a>
+</p>
 
 <br>
 
 ```python
-class WaterResourcesResearcher:
-    """
-    Bridging computational intelligence with real-world water challenges
-    — from flood forecasting to coastal defense.
-    """
-    def __init__(self):
-        self.name        = "Sebastian R.O. Marshall"
-        self.title       = "Ph.D. Candidate, Civil & Environmental Engineering"
-        self.affiliation = "University of Virginia — Hydrosense Lab"
-        self.origin      = "Jamaica 🇯🇲"
-        self.languages   = {"English": "Native", "Mandarin Chinese": "HSK 4/6"}
-        self.license     = "Registered Professional Engineer (P.E.)"
-
-        self.research = {
-            "primary"  : ["Hydroinformatics", "AI/ML in Hydrology", "Remote Sensing"],
-            "applied"  : ["Flood Forecasting", "Coastal Engineering", "Climate Resilience"],
-            "tools"    : ["SWAT+", "HEC-RAS", "MIKE 21", "NASA LISF", "Delft3D"],
-            "impact"   : "250,000+ Caribbean residents protected through coastal defense projects"
-        }
-
-    def current_focus(self):
-        return [
-            "Advanced data-assimilative hydrological modeling",
-            "AI-driven compound flood risk assessment",
-            "Satellite remote sensing for water resources",
-            "Policy-oriented climate adaptation engineering"
-        ]
-
-me = WaterResourcesResearcher()
+# Research Profile — Sebastian R.O. Marshall
+focus    = ["Hydroinformatics", "AI/ML in Hydrology", "Remote Sensing", "Coastal Engineering"]
+tools    = ["SWAT+", "HEC-RAS", "MIKE 21", "NASA LISF", "Delft3D", "Google Earth Engine"]
+impact   = "250K+ Caribbean residents protected · 128+ citations · 5+ publications"
+status   = "Ph.D. Candidate @ UVA Hydrosense Lab"
+origin   = "Jamaica 🇯🇲 → France 🇫🇷 → China 🇨🇳 → USA 🇺🇸"
+languages = {"English": "Native", "Mandarin Chinese": "HSK 4/6"}
 ```
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:134E6F&height=2"/>
+---
 
 <!-- ═══════════════════════ CREDENTIALS ═══════════════════════ -->
 
@@ -58,43 +34,30 @@ me = WaterResourcesResearcher()
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏆 Fellowships & Scholarships</h3>
-      <br>
-      <p><strong>🏛️ 2025 – 2030</strong><br>
-      <em>Graduate Research Fellow</em><br>
-      Ph.D. Civil & Environmental Engineering<br>
-      <strong>University of Virginia</strong></p>
-      <p><strong>🌊 2025</strong><br>
-      <em>National Water Center Innovators Fellow</em><br>
-      <strong>CUAHSI</strong></p>
-      <p><strong>🇪🇺 2020 – 2022</strong><br>
-      <em>Erasmus Mundus Joint Master's Scholar</em><br>
-      1 of 12 selected worldwide · €49,000 stipend<br>
-      <strong>European Union</strong></p>
-      <p><strong>🇨🇳 2014 – 2019</strong><br>
-      <em>CHEC Full Scholar</em><br>
-      Harbor & Coastal Engineering<br>
-      <strong>China Harbour Engineering Co. Ltd., Americas Division</strong></p>
+      <p><strong>🏛️ 2025 – 2030</strong> · University of Virginia<br>
+      Graduate Research Fellow · Ph.D. Civil & Environmental Engineering</p>
+      <p><strong>🌊 2025</strong> · CUAHSI<br>
+      National Water Center Innovators Fellow</p>
+      <p><strong>🇪🇺 2020 – 2022</strong> · European Union<br>
+      Erasmus Mundus Scholar · 1 of 12 worldwide · €49,000</p>
+      <p><strong>🇨🇳 2014 – 2019</strong> · China Harbour Engineering Co.<br>
+      CHEC Full Scholar · Harbor & Coastal Engineering</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎓 Education</h3>
-      <br>
       <p><strong>③ Ph.D.</strong> Civil & Environmental Engineering<br>
-      🏛️ University of Virginia, USA<br>
-      <em>2025 – Present</em></p>
+      University of Virginia, USA · <em>2025 – Present</em></p>
       <p><strong>② M.Sc.</strong> Hydroinformatics & Water Management<br>
-      🌍 EuroAquae+ Erasmus Mundus<br>
-      🇫🇷 Université Côte d'Azur · 🇬🇧 Newcastle University · 🇩🇪 BTU Cottbus<br>
+      EuroAquae+ Erasmus Mundus · France · UK · Germany<br>
       <em>2020 – 2022 · GPA: 3.7/4.0</em></p>
       <p><strong>① B.Eng.</strong> Harbor, Waterway & Coastal Engineering<br>
-      🏫 Hohai University, China 🇨🇳<br>
+      Hohai University, China<br>
       <em>2015 – 2020 · GPA: 4.7/5.0</em></p>
     </td>
   </tr>
 </table>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:134E6F,100:0891B2&height=2"/>
+---
 
 <!-- ═══════════════════════ RESEARCH ═══════════════════════ -->
 
@@ -102,28 +65,15 @@ me = WaterResourcesResearcher()
 
 <div align="center">
 
-```
-         ┌──────────────────┐
-         │  HYDROINFORMATICS │
-         └────────┬─────────┘
-    ┌─────────────┼─────────────┐
-    ▼             ▼             ▼
-┌────────┐  ┌─────────┐  ┌──────────┐
-│ AI/ML  │  │ Remote  │  │ Climate  │
-│  in    │  │Sensing  │  │Resilience│
-│Hydrology│  │  & GIS  │  │  & Adapt │
-└───┬────┘  └────┬────┘  └────┬─────┘
-    │            │             │
-    ▼            ▼             ▼
-┌────────┐  ┌─────────┐  ┌──────────┐
-│ Flood  │  │ Coastal │  │Watershed │
-│Forecast│  │  Engr.  │  │ Modeling │
-└────────┘  └─────────┘  └──────────┘
-```
+**🧠 Hydroinformatics** — AI/ML in Hydrology · Data-Assimilative Modeling · Compound Flood Risk Assessment
+
+**🌊 Applied Engineering** — Coastal Defense · Flood Forecasting · Watershed Modeling · Climate Adaptation
+
+**🛰️ Remote Sensing** — Satellite Hydrology · Google Earth Engine · Land Surface Modeling (NASA LISF)
+
+🗺️ **Research Footprint:** Jamaica 🇯🇲 · France 🇫🇷 · China 🇨🇳 · USA 🇺🇸 · Germany 🇩🇪 · UK 🇬🇧 · Vietnam 🇻🇳
 
 </div>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:0D1B2A&height=2"/>
 
@@ -142,34 +92,37 @@ me = WaterResourcesResearcher()
 <table>
   <tr>
     <td>
-      <strong>📄 Integrating Artificial Intelligence and Machine Learning in Hydrological Modeling for Sustainable Resource Management</strong><br>
-      <sub>SRO Marshall, TND Tran, MR Tapas, BQ Nguyen</sub><br>
-      <em>International Journal of River Basin Management</em>, 2025<br>
-      <img src="https://img.shields.io/badge/Citations-59-0891B2?style=flat-square"/>
+      <strong>📄 Integrating AI/ML in Hydrological Modeling for Sustainable Resource Management</strong><br>
+      <sub>Marshall SRO, Tran TND, Tapas MR, Nguyen BQ (2025)</sub><br>
+      <em>Int. Journal of River Basin Management</em> &nbsp;
+      <img src="https://img.shields.io/badge/59_citations-0891B2?style=flat-square"/>
     </td>
   </tr>
+  <tr><td>&nbsp;</td></tr>
   <tr>
     <td>
-      <strong>📄 SWAT and CMIP6-driven Hydro-Climate Modeling of Future Flood Risks and Vegetation Dynamics in the White Oak Bayou Watershed, USA</strong><br>
-      <sub>SRO Marshall, TND Tran, A Arshad, MM Rahman, V Lakshmi</sub><br>
-      <em>Earth Systems and Environment</em>, 2025<br>
-      <img src="https://img.shields.io/badge/Citations-39-0891B2?style=flat-square"/>
+      <strong>📄 SWAT and CMIP6-driven Hydro-Climate Modeling of Future Flood Risks</strong><br>
+      <sub>Marshall SRO, Tran TND, Arshad A, Rahman MM, Lakshmi V (2025)</sub><br>
+      <em>Earth Systems and Environment</em> &nbsp;
+      <img src="https://img.shields.io/badge/39_citations-0891B2?style=flat-square"/>
     </td>
   </tr>
+  <tr><td>&nbsp;</td></tr>
   <tr>
     <td>
-      <strong>📄 Assessment of Terrain Scenario Impacts on Hydrological Simulation with SWAT Model — Lai Giang Catchment, Vietnam</strong><br>
-      <sub>TND Tran, QB Nguyen, ND Vo, R Marshall, P Gourbesville</sub><br>
-      <em>Advances in Hydroinformatics</em>, 2022<br>
-      <img src="https://img.shields.io/badge/Citations-35-0891B2?style=flat-square"/>
+      <strong>📄 Assessment of Terrain Scenario Impacts on Hydrological Simulation with SWAT Model</strong><br>
+      <sub>Tran TND, Nguyen QB, Vo ND, Marshall R, Gourbesville P (2022)</sub><br>
+      <em>Advances in Hydroinformatics</em> &nbsp;
+      <img src="https://img.shields.io/badge/35_citations-0891B2?style=flat-square"/>
     </td>
   </tr>
+  <tr><td>&nbsp;</td></tr>
   <tr>
     <td>
       <strong>📄 The Climate and Land-Use Change Feedback</strong><br>
-      <sub>GNT Longandjo, V Sridhar, W Moufouma-Okia, V Lakshmi, HL Kim, ...</sub><br>
-      <em>Resilience and Sustainability in the Congo Basin</em>, 2026<br>
-      <img src="https://img.shields.io/badge/Status-New-C5A059?style=flat-square"/>
+      <sub>Longandjo GNT, Sridhar V, Moufouma-Okia W, Lakshmi V, et al. (2026)</sub><br>
+      <em>Resilience and Sustainability in the Congo Basin</em> &nbsp;
+      <img src="https://img.shields.io/badge/New-C5A059?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -180,14 +133,14 @@ me = WaterResourcesResearcher()
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:134E6F&height=2"/>
+---
 
 <!-- ═══════════════════════ SKILLS ═══════════════════════ -->
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <details>
-<summary><b>💻 Programming & Data Science</b> — click to expand</summary>
+<summary><b>💻 Programming & Machine Learning</b> — click to expand</summary>
 <br>
 <div align="center">
 
@@ -196,17 +149,7 @@ me = WaterResourcesResearcher()
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><b>🤖 Machine Learning & AI</b> — click to expand</summary>
-<br>
-<div align="center">
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -218,7 +161,7 @@ me = WaterResourcesResearcher()
 </details>
 
 <details>
-<summary><b>🌊 Hydrological & Coastal Modeling</b> — click to expand</summary>
+<summary><b>🌊 Hydrological, Coastal & GIS Tools</b> — click to expand</summary>
 <br>
 <div align="center">
 
@@ -228,28 +171,17 @@ me = WaterResourcesResearcher()
 ![MIKE 21](https://img.shields.io/badge/MIKE_21-00838F?style=flat)
 ![Delft3D](https://img.shields.io/badge/Delft3D-0277BD?style=flat)
 ![NASA LISF](https://img.shields.io/badge/NASA_LISF-E53935?style=flat&logo=nasa&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><b>🗺️ GIS & Remote Sensing</b> — click to expand</summary>
-<br>
-<div align="center">
-
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 ![Civil 3D](https://img.shields.io/badge/Civil_3D-0696D7?style=flat&logo=autodesk&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat)
-![Rasterio](https://img.shields.io/badge/Rasterio-43B02A?style=flat)
 
 </div>
 </details>
 
 <details>
-<summary><b>⚙️ DevOps & Tools</b> — click to expand</summary>
+<summary><b>⚙️ DevOps & Infrastructure</b> — click to expand</summary>
 <br>
 <div align="center">
 
@@ -258,88 +190,69 @@ me = WaterResourcesResearcher()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat)
+![Rasterio](https://img.shields.io/badge/Rasterio-43B02A?style=flat)
 
 </div>
 </details>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:134E6F,100:0891B2&height=2"/>
+---
 
 <!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 
 <h2 align="center">💼 Professional Journey</h2>
 
+| Period | Role | Organization | Highlights |
+|--------|------|-------------|-----------|
+| **2025 – Present** | Graduate Research Assistant | 🏛️ University of Virginia, Hydrosense Lab | Ph.D. research in hydroinformatics, AI/ML, remote sensing |
+| **2022 – 2025** | Junior Coastal & Hydroinformatics Engineer | 🌊 Smith Warner International, Jamaica | Led $3M+ coastal defense projects · 250K+ residents protected |
+| **2022** | Intern Hydraulic / Smart Water Engineer | 💧 SUEZ, Paris, France | Virtual sectorisation modeling for smart water networks |
+| **2021** | Lead Data / Geospatial Analyst | 🗺️ Remote, France | Managed team of 5 across 2 countries · 75% accuracy improvement |
+
+<br>
+
 <div align="center">
 
-```
-2025 ─── 🏛️ University of Virginia ──────────────────────────► Present
-         │  Graduate Research Assistant — Hydrosense Lab
-         │  Ph.D. research in hydroinformatics, AI/ML,
-         │  remote sensing for water resources
-         │
-2022 ─── 🌊 Smith Warner International ──────────────────► 2025
-         │  Junior Coastal & Hydroinformatics Engineer
-         │  Kingston, Jamaica
-         │  Led $3M+ coastal defense & flood-hazard projects
-         │  Safeguarded 250,000+ Caribbean residents
-         │
-    ├─── 💧 SUEZ — Smart & Environmental Solutions ──────► 2022
-         │  Intern Hydraulic / Smart Water Engineer
-         │  Paris, France · Virtual sectorisation modeling
-         │
-2021 ─── 🗺️ Lead Data / Geospatial Analyst ──────────────► 2021
-              Remote, France · Team of 5 across 2 countries
-              75% improvement in data accuracy
-```
+**🏛️ Professional Societies**
+
+<img src="https://img.shields.io/badge/ASCE_(Civil_Engineers)-0C4DA2?style=flat-square"/> &nbsp;
+<img src="https://img.shields.io/badge/EWRI_(Water_Resources)-0891B2?style=flat-square"/> &nbsp;
+<img src="https://img.shields.io/badge/AGU_(Geophysics)-1565C0?style=flat-square"/> &nbsp;
+<img src="https://img.shields.io/badge/AWWA_(Water_Works)-0277BD?style=flat-square"/> &nbsp;
+<img src="https://img.shields.io/badge/COPRI_(Coastal_&_Ocean)-00838F?style=flat-square"/> &nbsp;
+<img src="https://img.shields.io/badge/JIE_(Jamaica_Engineers)-C5A059?style=flat-square"/>
 
 </div>
 
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>🏛️ Professional Societies</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ASCE-0C4DA2?style=flat-square"/> &nbsp;
-      <img src="https://img.shields.io/badge/EWRI-0891B2?style=flat-square"/> &nbsp;
-      <img src="https://img.shields.io/badge/AGU-1565C0?style=flat-square"/> &nbsp;
-      <img src="https://img.shields.io/badge/AWWA-0277BD?style=flat-square"/> &nbsp;
-      <img src="https://img.shields.io/badge/COPRI-00838F?style=flat-square"/> &nbsp;
-      <img src="https://img.shields.io/badge/JIE_Jamaica-C5A059?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:0D1B2A&height=2"/>
+---
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=0891B2&icon_color=C5A059&text_color=c9d1d9&rank_icon=github&custom_title=Sebastian's%20GitHub%20Stats" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushmarshall&hide_border=true&bg_color=0D1B2A&title_color=0891B2&text_color=c9d1d9&langs_count=8&layout=compact" alt="Languages" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=0891B2&icon_color=C5A059&text_color=c9d1d9&rank_icon=github&custom_title=Sebastian's%20GitHub%20Stats" alt="GitHub Stats" width="495"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=rushmarshall&hide_border=true&background=0D1B2A&ring=0891B2&fire=C5A059&currStreakLabel=0891B2&sideLabels=C5A059&dates=888888" alt="GitHub Streak"/></a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushmarshall&hide_border=true&bg_color=0D1B2A&title_color=0891B2&text_color=c9d1d9&langs_count=8&layout=compact" alt="Languages" width="495"/>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=rushmarshall&hide_border=true&background=0D1B2A&ring=0891B2&fire=C5A059&currStreakLabel=0891B2&sideLabels=C5A059&dates=888888" alt="GitHub Streak" width="495"/></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:134E6F&height=2"/>
+---
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
+
+💡 **Open to collaborations in:** AI-driven flood forecasting · Coastal resilience modeling · Remote sensing applications
+
+<br><br>
 
 <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en"><img src="https://img.shields.io/badge/📚_Google_Scholar-0D1B2A?style=for-the-badge" alt="Scholar"/></a>
 <a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/🆔_ORCID-0D1B2A?style=for-the-badge" alt="ORCID"/></a>
@@ -348,12 +261,6 @@ me = WaterResourcesResearcher()
 <a href="https://www.researchgate.net/profile/Sebastian-Marshall-5"><img src="https://img.shields.io/badge/🔬_ResearchGate-0D1B2A?style=for-the-badge" alt="ResearchGate"/></a>
 <a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/🌍_Space4Water-0D1B2A?style=for-the-badge" alt="Space4Water"/></a>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushmarshall&style=flat-square&color=0891B2&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br>
