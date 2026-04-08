@@ -14,13 +14,13 @@
 
 <img width="100%" src="./assets/waterfall.svg"/>
 
-Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI/ML-driven hydrological models and flood forecasting systems. My work translates to real-world resilience — from advancing NASA land surface modeling to protecting 250K+ coastal residents across the Caribbean.
-
+> Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI/ML-driven hydrological models and flood forecasting systems. My work translates to real-world resilience — from advancing NASA land surface modeling to protecting **250K+ coastal residents** across the Caribbean.
+>
 > **Jamaica → France → China → USA** — Research across 7 countries · English & Mandarin Chinese (HSK 4/6)
 
-<img width="100%" src="./assets/waterfall.svg"/>
+---
 
-### Journey
+## JOURNEY
 
 **Ph.D.** — Civil & Environmental Engineering · University of Virginia · *2025 – Present*
 <sub>Graduate Research Fellow · National Water Center Innovators Fellow, CUAHSI</sub>
@@ -31,9 +31,9 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 **B.Eng.** — Harbor, Waterway & Coastal Engineering · Hohai University, China · *2015 – 2020*
 <sub>CHEC Full Scholar, China Harbour Engineering Co., Americas Division · GPA 4.7/5.0</sub>
 
-<img width="100%" src="./assets/waterfall.svg"/>
+---
 
-### Research
+## RESEARCH
 
 **Hydroinformatics** — AI/ML in Hydrology · Data-Assimilative Modeling · Compound Flood Risk
 
@@ -41,9 +41,9 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 
 **Remote Sensing** — Satellite Hydrology · Google Earth Engine · NASA LISF
 
-<img width="100%" src="./assets/waterfall.svg"/>
+---
 
-### Publications
+## PUBLICATIONS
 
 **128+ citations** · **5+ peer-reviewed papers** — [View all on Google Scholar →](https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en)
 
@@ -60,7 +60,7 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 
 <img width="100%" src="./assets/waterfall.svg"/>
 
-### Skills
+## SKILLS
 
 <details>
 <summary>Programming & ML</summary>
@@ -86,9 +86,9 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 
 </details>
 
-<img width="100%" src="./assets/waterfall.svg"/>
+---
 
-### Experience
+## EXPERIENCE
 
 **Graduate Research Assistant** · Hydrosense Lab, University of Virginia · *2025 – Present*
 
@@ -111,12 +111,12 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rushmarshall&hide_border=true&bg_color=1a1a1a&title_color=999999&text_color=cccccc&langs_count=6&layout=compact" alt="Languages" width="100%"/>
 </p>
 
-<img width="100%" src="./assets/waterfall.svg"/>
+---
 
 <p align="center">
 Open to collaborations in flood forecasting, coastal resilience, and remote sensing.
 <br><br>
-<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Connect-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
+<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Collaborate-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="Collaborate"/></a>
 <br><br>
 <sub>Hydrosense Lab · University of Virginia · Charlottesville, VA</sub>
 </p>
