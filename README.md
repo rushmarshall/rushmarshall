@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a2332,60:2d3748,100:4a5568&height=220&section=header&text=Sebastian%20R.O.%20Marshall&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Ph.D.%20Researcher%20%C2%B7%20Water%20Resources%20%26%20AI&descSize=15&descColor=94a3b8&descAlignY=54"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:1a2332,60:2d3748,100:4a5568&amp;height=220&amp;section=header&amp;text=Sebastian%20R.O.%20Marshall&amp;fontSize=36&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=34&amp;desc=Ph.D.%20Researcher%20%C2%B7%20Water%20Resources%20%26%20AI&amp;descSize=15&amp;descColor=94a3b8&amp;descAlignY=54"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Building+AI-driven+flood+forecasting+for+250K%2B+coastal+residents;National+Water+Center+Innovators+Fellow+%C2%B7+CUAHSI;Erasmus+Mundus+Scholar+%C2%B7+European+Union;CHEC+Scholar+%C2%B7+China+Harbour+Engineering;Jamaica+%E2%86%92+France+%E2%86%92+China+%E2%86%92+USA+%7C+7+countries%2C+2+languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=300&amp;size=14&amp;duration=3000&amp;pause=1200&amp;color=64748B&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI-driven+flood+forecasting+for+250K%2B+coastal+residents;National+Water+Center+Innovators+Fellow+%C2%B7+CUAHSI;Erasmus+Mundus+Scholar+%C2%B7+European+Union;CHEC+Scholar+%C2%B7+China+Harbour+Engineering;Jamaica+%E2%86%92+France+%E2%86%92+China+%E2%86%92+USA+%7C+7+countries%2C+2+languages" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>&nbsp;
-<a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Sebastian-Marshall-5"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
-<a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/Space4Water-1e3a5f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjciIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41Ii8+PC9zdmc+&logoColor=white" alt="Space4Water"/></a>
+<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Scholar"/></a>&nbsp;
+<a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID"/></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Sebastian-Marshall-5"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&amp;logo=researchgate&amp;logoColor=white" alt="ResearchGate"/></a>&nbsp;
+<a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/Space4Water-1e3a5f?style=flat-square" alt="Space4Water"/></a>
 </p>
 
 <img width="100%" src="./assets/water-flow.svg"/>
@@ -23,10 +23,15 @@ Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI
 Licensed Professional Engineer with research spanning 7 countries and fluency in English and Mandarin Chinese.
 
 <p align="center">
-<img src="https://img.shields.io/badge/128+_Citations-4285F4?style=flat-square" alt="Citations"/>&nbsp;
-<img src="https://img.shields.io/badge/5+_Publications-34a853?style=flat-square" alt="Papers"/>&nbsp;
-<img src="https://img.shields.io/badge/7_Countries-f59e0b?style=flat-square" alt="Countries"/>&nbsp;
-<img src="https://img.shields.io/badge/P.E._Licensed-6366f1?style=flat-square" alt="PE"/>&nbsp;
+<img src="https://img.shields.io/badge/H--Index:_5-1e3a5f?style=flat-square" alt="H-Index"/>&nbsp;
+<img src="https://img.shields.io/badge/Citations:_128+-4285F4?style=flat-square" alt="Citations"/>&nbsp;
+<img src="https://img.shields.io/badge/Publications:_5+-34a853?style=flat-square" alt="Publications"/>&nbsp;
+<img src="https://img.shields.io/badge/i10--Index:_3-6366f1?style=flat-square" alt="i10-Index"/>
+<br>
+<img src="https://img.shields.io/badge/Repositories:_7-0e7490?style=flat-square" alt="Repos"/>&nbsp;
+<img src="https://img.shields.io/badge/Private_Repos:_1-555555?style=flat-square" alt="Private"/>&nbsp;
+<img src="https://img.shields.io/badge/P.E._Licensed-f59e0b?style=flat-square" alt="PE"/>&nbsp;
+<img src="https://img.shields.io/badge/7_Countries-b45309?style=flat-square" alt="Countries"/>
 <br><sub>as of 2025 · <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ">verify on Google Scholar</a></sub>
 </p>
 
@@ -38,7 +43,7 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 - **SWAT and CMIP6-driven Hydro-Climate Modeling**, *Earth Systems and Environment*, 2025, 39 citations
 - **Assessment of Terrain Scenario Impacts**, *Advances in Hydroinformatics*, 2022, 35 citations
 
-<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en"><img src="https://img.shields.io/badge/All_Publications_→-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="All Publications"/></a>
+<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/All_Publications_→-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="All Publications"/></a>
 </details>
 
 ---
@@ -48,63 +53,63 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 <table>
 <tr><td>
 
-**Programming Languages**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+<strong>Programming Languages</strong><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB"/>
 
 </td><td>
 
-**Machine Learning & Data Science**<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square)
+<strong>Machine Learning &amp; Data Science</strong><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square" alt="CNN"/>
+<img src="https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square" alt="LSTM"/>
 
 </td></tr>
 <tr><td>
 
-**GIS & Remote Sensing**<br>
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
-![geemap](https://img.shields.io/badge/geemap-3776AB?style=flat-square&logo=python&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square)
-![Rasterio](https://img.shields.io/badge/Rasterio-43B02A?style=flat-square)
+<strong>GIS &amp; Remote Sensing</strong><br>
+<img src="https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Earth Engine"/>
+<img src="https://img.shields.io/badge/geemap-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="geemap"/>
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" alt="ArcGIS"/>
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square" alt="GDAL"/>
+<img src="https://img.shields.io/badge/Rasterio-43B02A?style=flat-square" alt="Rasterio"/>
 
 </td><td>
 
-**Hydrological & Coastal Modeling**<br>
-![SWAT/SWAT+](https://img.shields.io/badge/SWAT%2FSWAT+-2E7D32?style=flat-square)
-![HEC-RAS](https://img.shields.io/badge/HEC--RAS-1565C0?style=flat-square)
-![HEC-HMS](https://img.shields.io/badge/HEC--HMS-1976D2?style=flat-square)
-![NASA LISF](https://img.shields.io/badge/NASA_LISF-E53935?style=flat-square&logo=nasa&logoColor=white)
-![HAND](https://img.shields.io/badge/HAND_(NOAA_NWM)-0277BD?style=flat-square)
-![Delft3D](https://img.shields.io/badge/Delft3D-00629B?style=flat-square)
-![MIKE Suite](https://img.shields.io/badge/MIKE_Suite-005B82?style=flat-square)
+<strong>Hydrological &amp; Coastal Modeling</strong><br>
+<img src="https://img.shields.io/badge/SWAT%2FSWAT+-2E7D32?style=flat-square" alt="SWAT"/>
+<img src="https://img.shields.io/badge/HEC--RAS-1565C0?style=flat-square" alt="HEC-RAS"/>
+<img src="https://img.shields.io/badge/HEC--HMS-1976D2?style=flat-square" alt="HEC-HMS"/>
+<img src="https://img.shields.io/badge/NASA_LISF-E53935?style=flat-square&amp;logo=nasa&amp;logoColor=white" alt="NASA LISF"/>
+<img src="https://img.shields.io/badge/HAND_(NOAA_NWM)-0277BD?style=flat-square" alt="HAND"/>
+<img src="https://img.shields.io/badge/Delft3D-00629B?style=flat-square" alt="Delft3D"/>
+<img src="https://img.shields.io/badge/MIKE_Suite-005B82?style=flat-square" alt="MIKE Suite"/>
 
 </td></tr>
 <tr><td>
 
-**Cloud & DevOps**<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<strong>Cloud &amp; DevOps</strong><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=github-actions&amp;logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
 
 </td><td>
 
-**Databases**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+<strong>Databases</strong><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/>
 
 </td></tr>
 </table>
@@ -140,40 +145,45 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 
 ---
 
-## Research Domains
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:1a2332,60:2d3748,100:4a5568&amp;height=150&amp;section=header&amp;text=Research%20Domains&amp;fontSize=28&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=45"/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Hydroinformatics-1e3a5f?style=for-the-badge" alt="Hydroinformatics"/>
 <img src="https://img.shields.io/badge/Remote_Sensing-2E7D32?style=for-the-badge" alt="Remote Sensing"/>
-<img src="https://img.shields.io/badge/Machine_Learning-7c3aed?style=for-the-badge" alt="ML"/>
-<img src="https://img.shields.io/badge/Flood_Forecasting-1565C0?style=for-the-badge" alt="Flood Forecasting"/>
+<img src="https://img.shields.io/badge/ML_/_AI-7c3aed?style=for-the-badge" alt="ML/AI"/>
+<img src="https://img.shields.io/badge/Climate_Change-b45309?style=for-the-badge" alt="Climate Change"/>
 <br>
-<img src="https://img.shields.io/badge/Coastal_Resilience-0e7490?style=for-the-badge" alt="Coastal Resilience"/>
+<img src="https://img.shields.io/badge/Flood_Forecasting-1565C0?style=for-the-badge" alt="Flood Forecasting"/>
 <img src="https://img.shields.io/badge/Water_Resources-0284c7?style=for-the-badge" alt="Water Resources"/>
-<img src="https://img.shields.io/badge/Climate_Adaptation-6d28d9?style=for-the-badge" alt="Climate Adaptation"/>
-<img src="https://img.shields.io/badge/Coastal_Design_%26_Construction-b45309?style=for-the-badge" alt="Coastal Design"/>
+<img src="https://img.shields.io/badge/Agricultural_Ecosystems-2E7D32?style=for-the-badge" alt="Agricultural Ecosystems"/>
 </p>
 
 <img width="100%" src="./assets/water-flow.svg"/>
 
 ---
 
+## Education
+
+`2025 – present` &nbsp; **Ph.D.** Civil &amp; Environmental Engineering, University of Virginia
+<br>`2020 – 2022` &nbsp;&nbsp;&nbsp; **M.Sc.** Hydroinformatics &amp; Water Management, EuroAquae+ Erasmus Mundus
+<br>`2015 – 2020` &nbsp;&nbsp;&nbsp; **B.Eng.** Harbor, Waterway &amp; Coastal Engineering, Hohai University, China
+
+---
+
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&show_icons=true&hide_border=true&bg_color=00000000&title_color=1e3a5f&icon_color=4285F4&text_color=555555&rank_icon=github&custom_title=Stats" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&hide_border=true&background=00000000&ring=4285F4&fire=f59e0b&currStreakLabel=1e3a5f&sideLabels=555555&dates=999999&currStreakNum=1e3a5f&sideNums=555555" alt="Streak" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1e3a5f&amp;icon_color=4285F4&amp;text_color=555555&amp;rank_icon=github&amp;custom_title=Stats" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;ring=4285F4&amp;fire=f59e0b&amp;currStreakLabel=1e3a5f&amp;sideLabels=555555&amp;dates=999999&amp;currStreakNum=1e3a5f&amp;sideNums=555555" alt="Streak" width="48%"/>
 </p>
 
 ---
 
-## Journey
+## Experience
 
-`2025 – present` &nbsp; **Ph.D.** Civil & Environmental Engineering · University of Virginia
-<br>`2022 – 2025` &nbsp;&nbsp;&nbsp; **Coastal & Hydroinformatics Engineer** · Smith Warner International, Jamaica
-<br>`2022` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Smart Water Engineer** · SUEZ, Paris
-<br>`2020 – 2022` &nbsp;&nbsp;&nbsp; **M.Sc.** Hydroinformatics & Water Management · EuroAquae+ Erasmus Mundus
-<br>`2015 – 2020` &nbsp;&nbsp;&nbsp; **B.Eng.** Harbor, Waterway & Coastal Engineering · Hohai University, China
+`2022 – 2025` &nbsp;&nbsp;&nbsp; **Coastal &amp; Hydroinformatics Engineer**, Smith Warner International, Jamaica
+<br>`2022` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Smart Water Engineer**, SUEZ, Paris
+<br>`2021` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lead Data Analyst**, Remote, France
 
 <p align="center">
 <br>
@@ -190,9 +200,9 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 <p align="center">
 Open to collaborations in flood forecasting, coastal resilience, and AI/ML for water resources.
 <br><br>
-<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
+<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect"/></a>
 <br><br>
 <sub>Hydrosense Lab · University of Virginia · Charlottesville, VA</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5568,30:2d3748,60:1a2332,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4a5568,30:2d3748,60:1a2332,100:0d1117&amp;height=120&amp;section=footer"/>
