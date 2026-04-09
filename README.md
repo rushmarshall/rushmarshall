@@ -48,10 +48,11 @@ Ph.D. researcher at the **University of Virginia** building AI/ML-driven hydrolo
 
 | Project | Methods | Impact |
 |:--------|:--------|:-------|
-| **AI-Driven Flood Forecasting** | LSTM, Data Assimilation, NASA LISF | Real-time compound flood prediction for coastal communities |
-| **Caribbean Coastal Defense** | HEC-RAS, MIKE 21, Delft3D | $3M+ coastal infrastructure protecting 250K+ residents |
-| **SWAT+ Watershed Modeling** | SWAT+, CMIP6, Remote Sensing | Hydro-climate impact assessment across the Mekong & Congo basins |
-| **Satellite Hydrology** | Google Earth Engine, Python | Land cover change detection and drought analysis for Africa |
+| [**Caribbean Coastal Resilience**](https://github.com/rushmarshall/Caribbean-Coastal-Resilience) | Copula, Holland model, IPCC AR6 | Compound flood risk framework for 13 Caribbean SIDS |
+| [**FloodRisk-HAND**](https://github.com/rushmarshall/FloodRisk-HAND) | HAND-FIM, NWM, CDC SVI | Flood inundation mapping with social vulnerability |
+| [**PySWATPlus**](https://github.com/rushmarshall/PySWATPlus) | DDS, PSO, GLUE, Sobol | SWAT+ calibration, sensitivity analysis & validation |
+| [**CMIP6-Downloader**](https://github.com/rushmarshall/CMIP6-Downloader) | OPeNDAP, bias correction | 61 GCMs, 197 countries, SSP scenarios |
+| [**LISF-Toolkit**](https://github.com/rushmarshall/LISF-Toolkit) | earthaccess, xarray, MODIS/ERA5 | NASA Land Information System data processing |
 
 ---
 
