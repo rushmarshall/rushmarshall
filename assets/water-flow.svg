@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="wg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:0.3"/>
+      <stop offset="25%" style="stop-color:#b8d8f0;stop-opacity:0.5"/>
+      <stop offset="50%" style="stop-color:#e8f4fd;stop-opacity:0.3"/>
+      <stop offset="75%" style="stop-color:#b8d8f0;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#e8f4fd;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="100" fill="transparent"/>
+  <path fill="url(#wg)" opacity="0.6">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0,60 C120,40 240,80 360,50 C480,20 600,70 720,55 C840,40 960,75 1080,45 C1200,15 1320,60 1440,50 L1440,100 L0,100 Z;
+      M0,50 C120,70 240,30 360,60 C480,80 600,35 720,45 C840,65 960,25 1080,55 C1200,75 1320,40 1440,60 L1440,100 L0,100 Z;
+      M0,60 C120,40 240,80 360,50 C480,20 600,70 720,55 C840,40 960,75 1080,45 C1200,15 1320,60 1440,50 L1440,100 L0,100 Z"/>
+  </path>
+  <path fill="url(#wg)" opacity="0.4">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,70 C180,50 360,85 540,65 C720,45 900,80 1080,60 C1260,40 1350,70 1440,65 L1440,100 L0,100 Z;
+      M0,65 C180,80 360,45 540,70 C720,85 900,50 1080,70 C1260,55 1350,80 1440,70 L1440,100 L0,100 Z;
+      M0,70 C180,50 360,85 540,65 C720,45 900,80 1080,60 C1260,40 1350,70 1440,65 L1440,100 L0,100 Z"/>
+  </path>
+  <path fill="url(#wg)" opacity="0.25">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="
+      M0,80 C240,65 480,90 720,75 C960,60 1200,85 1440,80 L1440,100 L0,100 Z;
+      M0,75 C240,90 480,65 720,80 C960,90 1200,70 1440,75 L1440,100 L0,100 Z;
+      M0,80 C240,65 480,90 720,75 C960,60 1200,85 1440,80 L1440,100 L0,100 Z"/>
+  </path>
+</svg>
