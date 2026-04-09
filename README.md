@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Scholar"/></a>&nbsp;
 <a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID"/></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Sebastian-Marshall-5"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&amp;logo=researchgate&amp;logoColor=white" alt="ResearchGate"/></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Sebastian-Marshall"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&amp;logo=researchgate&amp;logoColor=white" alt="ResearchGate"/></a>&nbsp;
 <a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/Space4Water-1e3a5f?style=flat-square" alt="Space4Water"/></a>
 </p>
 
@@ -85,20 +85,19 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:1a2332,60:2d3748,100:4a5568&amp;height=150&amp;section=header&amp;text=Research%20Domains&amp;fontSize=28&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=45"/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Hydroinformatics-1e3a5f?style=for-the-badge" alt="Hydroinformatics"/>
-<img src="https://img.shields.io/badge/Remote_Sensing-2E7D32?style=for-the-badge" alt="Remote Sensing"/>
-<img src="https://img.shields.io/badge/ML_/_AI-7c3aed?style=for-the-badge" alt="ML/AI"/>
-<img src="https://img.shields.io/badge/Climate_Change-b45309?style=for-the-badge" alt="Climate Change"/>
+<details>
+<summary>Research Domains</summary>
 <br>
-<img src="https://img.shields.io/badge/Flood_Forecasting-1565C0?style=for-the-badge" alt="Flood Forecasting"/>
-<img src="https://img.shields.io/badge/Water_Resources-0284c7?style=for-the-badge" alt="Water Resources"/>
-<img src="https://img.shields.io/badge/Agricultural_Ecosystems-2E7D32?style=for-the-badge" alt="Agricultural Ecosystems"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Hydroinformatics-1e3a5f?style=flat-square" alt="Hydroinformatics"/>
+<img src="https://img.shields.io/badge/Remote_Sensing-2E7D32?style=flat-square" alt="Remote Sensing"/>
+<img src="https://img.shields.io/badge/ML_/_AI-7c3aed?style=flat-square" alt="ML/AI"/>
+<img src="https://img.shields.io/badge/Climate_Change-b45309?style=flat-square" alt="Climate Change"/>
+<img src="https://img.shields.io/badge/Flood_Forecasting-1565C0?style=flat-square" alt="Flood Forecasting"/>
+<img src="https://img.shields.io/badge/Water_Resources-0284c7?style=flat-square" alt="Water Resources"/>
+<img src="https://img.shields.io/badge/Agricultural_Ecosystems-2E7D32?style=flat-square" alt="Agricultural Ecosystems"/>
 </p>
-
-<img width="100%" src="./assets/water-flow.svg"/>
+</details>
 
 ---
 
