@@ -50,69 +50,9 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 
 ## Technical Skills
 
-<table>
-<tr><td>
-
-<strong>Programming Languages</strong><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB"/>
-
-</td><td>
-
-<strong>Machine Learning &amp; Data Science</strong><br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square" alt="CNN"/>
-<img src="https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square" alt="LSTM"/>
-
-</td></tr>
-<tr><td>
-
-<strong>GIS &amp; Remote Sensing</strong><br>
-<img src="https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Earth Engine"/>
-<img src="https://img.shields.io/badge/geemap-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="geemap"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" alt="ArcGIS"/>
-<img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square" alt="GDAL"/>
-<img src="https://img.shields.io/badge/Rasterio-43B02A?style=flat-square" alt="Rasterio"/>
-
-</td><td>
-
-<strong>Hydrological &amp; Coastal Modeling</strong><br>
-<img src="https://img.shields.io/badge/SWAT%2FSWAT+-2E7D32?style=flat-square" alt="SWAT"/>
-<img src="https://img.shields.io/badge/HEC--RAS-1565C0?style=flat-square" alt="HEC-RAS"/>
-<img src="https://img.shields.io/badge/HEC--HMS-1976D2?style=flat-square" alt="HEC-HMS"/>
-<img src="https://img.shields.io/badge/NASA_LISF-E53935?style=flat-square&amp;logo=nasa&amp;logoColor=white" alt="NASA LISF"/>
-<img src="https://img.shields.io/badge/HAND_(NOAA_NWM)-0277BD?style=flat-square" alt="HAND"/>
-<img src="https://img.shields.io/badge/Delft3D-00629B?style=flat-square" alt="Delft3D"/>
-<img src="https://img.shields.io/badge/MIKE_Suite-005B82?style=flat-square" alt="MIKE Suite"/>
-
-</td></tr>
-<tr><td>
-
-<strong>Cloud &amp; DevOps</strong><br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=github-actions&amp;logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
-
-</td><td>
-
-<strong>Databases</strong><br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/>
-
-</td></tr>
-</table>
+<table><tr><td><strong>Programming Languages</strong><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB"/></td><td><strong>Machine Learning &amp; Data Science</strong><br><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square" alt="CNN"/> <img src="https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square" alt="LSTM"/></td></tr>
+<tr><td><strong>GIS &amp; Remote Sensing</strong><br><img src="https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Earth Engine"/> <img src="https://img.shields.io/badge/geemap-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="geemap"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS"/> <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" alt="ArcGIS"/> <img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square" alt="GDAL"/> <img src="https://img.shields.io/badge/Rasterio-43B02A?style=flat-square" alt="Rasterio"/></td><td><strong>Hydrological &amp; Coastal Modeling</strong><br><img src="https://img.shields.io/badge/SWAT%2FSWAT+-2E7D32?style=flat-square" alt="SWAT"/> <img src="https://img.shields.io/badge/HEC--RAS-1565C0?style=flat-square" alt="HEC-RAS"/> <img src="https://img.shields.io/badge/HEC--HMS-1976D2?style=flat-square" alt="HEC-HMS"/> <img src="https://img.shields.io/badge/NASA_LISF-E53935?style=flat-square&amp;logo=nasa&amp;logoColor=white" alt="NASA LISF"/> <img src="https://img.shields.io/badge/HAND_(NOAA_NWM)-0277BD?style=flat-square" alt="HAND"/> <img src="https://img.shields.io/badge/Delft3D-00629B?style=flat-square" alt="Delft3D"/> <img src="https://img.shields.io/badge/MIKE_Suite-005B82?style=flat-square" alt="MIKE Suite"/></td></tr>
+<tr><td><strong>Cloud &amp; DevOps</strong><br><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=github-actions&amp;logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"/></td><td><strong>Databases</strong><br><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/></td></tr></table>
 
 ---
 
