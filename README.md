@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,30:333333,60:666666,100:999999&height=200&section=header&text=Sebastian%20R.O.%20Marshall&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Ph.D.%20Researcher%20%C2%B7%20Hydroinformatics%20%C2%B7%20AI%2FML&descSize=14&descColor=CCCCCC&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,30:333333,60:666666,100:999999&height=200&section=header&text=Sebastian%20R.O.%20Marshall&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Hydrosense%20Lab%20%C2%B7%20University%20of%20Virginia&descSize=14&descColor=CCCCCC&descAlignY=56"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=National+Water+Center+Fellow+%C2%B7+CUAHSI;Erasmus+Mundus+Scholar+%C2%B7+European+Union;CHEC+Scholar+%C2%B7+China+Harbour+Engineering;Professional+Engineer+(P.E.)+Licensed;128%2B+Citations+%C2%B7+250K%2B+Residents+Protected" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Building+AI-driven+flood+forecasting+systems;National+Water+Center+Innovators+Fellow;Erasmus+Mundus+Scholar+%C2%B7+EU;CHEC+Scholar+%C2%B7+China+Harbour+Engineering;Protecting+250K%2B+coastal+residents" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,92 +14,84 @@
 
 <img width="100%" src="./assets/waterfall.svg"/>
 
-> Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI/ML-driven hydrological models and flood forecasting systems. My work translates to real-world resilience — from advancing NASA land surface modeling to protecting **250K+ coastal residents** across the Caribbean.
->
-> **Jamaica → France → China → USA** — Research across 7 countries · English & Mandarin Chinese (HSK 4/6)
+## ABOUT
+
+Ph.D. researcher at the **University of Virginia** building AI/ML-driven hydrological models and flood forecasting systems. My work bridges computational science and real-world resilience — from advancing NASA land surface modeling to engineering coastal defenses that protect **250K+ residents** across the Caribbean.
+
+**Jamaica → France → China → USA** — research across 7 countries, fluent in English and Mandarin Chinese (HSK 4/6).
 
 ---
 
-## JOURNEY
+## IMPACT
 
-**Ph.D.** — Civil & Environmental Engineering · University of Virginia · *2025 – Present*
-<sub>Graduate Research Fellow · National Water Center Innovators Fellow, CUAHSI</sub>
-
-**M.Sc.** — Hydroinformatics & Water Management · EuroAquae+ Erasmus Mundus · *2020 – 2022*
-<sub>1 of 12 scholars selected worldwide · France · UK · Germany · GPA 3.7/4.0</sub>
-
-**B.Eng.** — Harbor, Waterway & Coastal Engineering · Hohai University, China · *2015 – 2020*
-<sub>CHEC Full Scholar, China Harbour Engineering Co., Americas Division · GPA 4.7/5.0</sub>
-
----
-
-## RESEARCH
-
-**Hydroinformatics** — AI/ML in Hydrology · Data-Assimilative Modeling · Compound Flood Risk
-
-**Applied Engineering** — Coastal Defense · Flood Forecasting · Watershed Modeling
-
-**Remote Sensing** — Satellite Hydrology · Google Earth Engine · NASA LISF
-
----
-
-## PUBLICATIONS
-
-**128+ citations** · **5+ peer-reviewed papers** — [View all on Google Scholar →](https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en)
+<p align="center">
+<img src="https://img.shields.io/badge/Citations-128+-555555?style=for-the-badge&labelColor=333333" alt="Citations"/>
+<img src="https://img.shields.io/badge/Papers-5+-555555?style=for-the-badge&labelColor=333333" alt="Papers"/>
+<img src="https://img.shields.io/badge/Countries-7-555555?style=for-the-badge&labelColor=333333" alt="Countries"/>
+<img src="https://img.shields.io/badge/P.E._Licensed-✓-555555?style=for-the-badge&labelColor=333333" alt="PE"/>
+</p>
 
 <details>
-<summary>Selected papers</summary>
+<summary>Selected publications</summary>
 <br>
 
 - **Integrating AI/ML in Hydrological Modeling** — *Int. J. River Basin Management*, 2025 · 59 citations
 - **SWAT and CMIP6-driven Hydro-Climate Modeling** — *Earth Systems and Environment*, 2025 · 39 citations
 - **Assessment of Terrain Scenario Impacts** — *Advances in Hydroinformatics*, 2022 · 35 citations
-- **The Climate and Land-Use Change Feedback** — *Congo Basin*, 2026
 
-</details>
-
-<img width="100%" src="./assets/waterfall.svg"/>
-
-## SKILLS
-
-<details>
-<summary>Programming & ML</summary>
-<br>
-
-`Python` · `R` · `MATLAB` · `C++` · `SQL` · `TensorFlow` · `PyTorch` · `scikit-learn`
-
-</details>
-
-<details>
-<summary>Hydrological & GIS</summary>
-<br>
-
-`SWAT+` · `HEC-RAS` · `MIKE 21` · `Delft3D` · `NASA LISF` · `Google Earth Engine` · `QGIS` · `ArcGIS`
-
-</details>
-
-<details>
-<summary>Infrastructure</summary>
-<br>
-
-`Git` · `Docker` · `Linux` · `AWS` · `GitHub Actions`
-
+<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&hl=en"><img src="https://img.shields.io/badge/View_All_on_Google_Scholar_→-333333?style=flat-square&logo=googlescholar&logoColor=white" alt="All Publications"/></a>
 </details>
 
 ---
 
-## EXPERIENCE
+## SELECTED WORK
 
-**Graduate Research Assistant** · Hydrosense Lab, University of Virginia · *2025 – Present*
+| Project | Methods | Impact |
+|:--------|:--------|:-------|
+| **AI-Driven Flood Forecasting** | LSTM, Data Assimilation, NASA LISF | Real-time compound flood prediction for coastal communities |
+| **Caribbean Coastal Defense** | HEC-RAS, MIKE 21, Delft3D | $3M+ coastal infrastructure protecting 250K+ residents |
+| **SWAT+ Watershed Modeling** | SWAT+, CMIP6, Remote Sensing | Hydro-climate impact assessment across the Mekong & Congo basins |
+| **Satellite Hydrology** | Google Earth Engine, Python | Land cover change detection and drought analysis for Africa |
 
-**Coastal & Hydroinformatics Engineer** · Smith Warner International, Jamaica · *2022 – 2025*
-<sub>Led $3M+ coastal defense projects · 250K+ residents protected</sub>
+---
 
-**Smart Water Engineer Intern** · SUEZ, Paris · *2022*
+## RESEARCH DOMAINS
 
-**Lead Data Analyst** · Remote, France · *2021*
+<p align="center">
+<img src="https://img.shields.io/badge/Hydroinformatics-333333?style=for-the-badge" alt="Hydroinformatics"/>
+<img src="https://img.shields.io/badge/Remote_Sensing-333333?style=for-the-badge" alt="Remote Sensing"/>
+<img src="https://img.shields.io/badge/ML_/_AI-333333?style=for-the-badge" alt="ML/AI"/>
+<img src="https://img.shields.io/badge/Flood_Forecasting-333333?style=for-the-badge" alt="Flood Forecasting"/>
+<br>
+<img src="https://img.shields.io/badge/Coastal_Resilience-333333?style=for-the-badge" alt="Coastal Resilience"/>
+<img src="https://img.shields.io/badge/Water_Resources-333333?style=for-the-badge" alt="Water Resources"/>
+<img src="https://img.shields.io/badge/Data_Assimilation-333333?style=for-the-badge" alt="Data Assimilation"/>
+</p>
 
-<sub>ASCE · EWRI · AGU · AWWA · COPRI · JIE Jamaica</sub>
+---
+
+## SKILLS
+
+### Programming & ML
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-333333?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDIwbDQtOCAzIDQgNS0xMCA4IDE0SDJ6Ii8+PC9zdmc+&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-333333?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Modeling & GIS
+![SWAT+](https://img.shields.io/badge/SWAT+-333333?style=for-the-badge)
+![HEC-RAS](https://img.shields.io/badge/HEC--RAS-333333?style=for-the-badge)
+![NASA LISF](https://img.shields.io/badge/NASA_LISF-333333?style=for-the-badge&logo=nasa&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-333333?style=for-the-badge&logo=google&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-333333?style=for-the-badge&logo=qgis&logoColor=white)
+
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 
 <img width="100%" src="./assets/waterfall.svg"/>
 
@@ -113,10 +105,31 @@
 
 ---
 
+## JOURNEY
+
+**Ph.D.** Civil & Environmental Engineering · University of Virginia · *2025 – Present*
+<br>**M.Sc.** Hydroinformatics & Water Management · EuroAquae+ Erasmus Mundus · *2020 – 2022*
+<br>**B.Eng.** Harbor, Waterway & Coastal Engineering · Hohai University, China · *2015 – 2020*
+
+<sub>National Water Center Innovators Fellow, CUAHSI · Erasmus Mundus Scholar, EU · CHEC Scholar, China Harbour Engineering Co., Americas Division</sub>
+
+<details>
+<summary>Professional experience</summary>
+<br>
+
+**Coastal & Hydroinformatics Engineer** · Smith Warner International, Jamaica · *2022 – 2025*
+<br>**Smart Water Engineer Intern** · SUEZ, Paris · *2022*
+<br>**Lead Data Analyst** · Remote, France · *2021*
+
+<sub>ASCE · EWRI · AGU · AWWA · COPRI · JIE Jamaica</sub>
+</details>
+
+---
+
 <p align="center">
 Open to collaborations in flood forecasting, coastal resilience, and remote sensing.
 <br><br>
-<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Collaborate-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="Collaborate"/></a>
+<a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Connect-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
 <br><br>
 <sub>Hydrosense Lab · University of Virginia · Charlottesville, VA</sub>
 </p>
