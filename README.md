@@ -13,8 +13,6 @@
 <a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/Space4Water-0e7490?style=flat-square" alt="Space4Water"/></a>
 </p>
 
-<img width="100%" src="./assets/water-flow.svg"/>
-
 ---
 
 ## About Me
