@@ -18,30 +18,31 @@
 
 ## About Me
 
-Ph.D. researcher at the **University of Virginia's Hydrosense Lab**, building AI/ML-driven hydrological models and flood forecasting systems. My work bridges computational science and real-world resilience, from advancing NASA land surface modeling to engineering coastal defenses that protect **250,000+ residents** across the Caribbean.
+Ph.D. researcher at **Johns Hopkins University** in the Department of Environmental Health &amp; Engineering (Geography &amp; Environmental Engineering track), building AI/ML-driven hydrological models and flood forecasting systems. My work bridges computational science and real-world resilience, from advancing land surface modeling to engineering coastal defenses that protect **250,000+ residents** across the Caribbean.
 
 Licensed Professional Engineer with research spanning 7 countries and fluency in English and Mandarin Chinese.
 
 <p align="center">
-<img src="https://img.shields.io/badge/H--Index:_5-1e3a5f?style=flat-square" alt="H-Index"/>&nbsp;
-<img src="https://img.shields.io/badge/Citations:_128+-4285F4?style=flat-square" alt="Citations"/>&nbsp;
-<img src="https://img.shields.io/badge/Publications:_5+-34a853?style=flat-square" alt="Publications"/>&nbsp;
+<img src="https://img.shields.io/badge/H--Index:_3-1e3a5f?style=flat-square" alt="H-Index"/>&nbsp;
+<img src="https://img.shields.io/badge/Citations:_155+-4285F4?style=flat-square" alt="Citations"/>&nbsp;
+<img src="https://img.shields.io/badge/Publications:_4-34a853?style=flat-square" alt="Publications"/>&nbsp;
 <img src="https://img.shields.io/badge/i10--Index:_3-6366f1?style=flat-square" alt="i10-Index"/>
 <br>
 <img src="https://img.shields.io/badge/Repositories:_7-0e7490?style=flat-square" alt="Repos"/>&nbsp;
 <img src="https://img.shields.io/badge/Private_Repos:_1-555555?style=flat-square" alt="Private"/>&nbsp;
 <img src="https://img.shields.io/badge/P.E._Licensed-f59e0b?style=flat-square" alt="PE"/>&nbsp;
 <img src="https://img.shields.io/badge/7_Countries-b45309?style=flat-square" alt="Countries"/>
-<br><sub>as of 2025 · <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ">verify on Google Scholar</a></sub>
+<br><sub>as of 2026 · <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ">verify on Google Scholar</a></sub>
 </p>
 
 <details>
 <summary>Selected publications</summary>
 <br>
 
-- **Integrating AI/ML in Hydrological Modeling**, *Int. J. River Basin Management*, 2025, 59 citations
-- **SWAT and CMIP6-driven Hydro-Climate Modeling**, *Earth Systems and Environment*, 2025, 39 citations
-- **Assessment of Terrain Scenario Impacts**, *Advances in Hydroinformatics*, 2022, 35 citations
+- **Integrating AI/ML in Hydrological Modeling**, *Int. J. River Basin Management*, 2025, 69 citations
+- **SWAT and CMIP6-driven Hydro-Climate Modeling**, *Earth Systems and Environment*, 2025, 42 citations
+- **Assessment of Terrain Scenario Impacts**, *Advances in Hydroinformatics*, 2022, 37 citations
+- **The Climate and Land-Use Change Feedback**, *Resilience and Sustainability in the Congo Basin*, 2026
 
 <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/All_Publications_→-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="All Publications"/></a>
 </details>
@@ -103,7 +104,8 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 
 ## Education
 
-`2025 – present` &nbsp; **Ph.D.** Civil &amp; Environmental Engineering, University of Virginia
+`2026 – present` &nbsp; **Ph.D.** Environmental Health &amp; Engineering, Johns Hopkins University
+<br>`2025 – 2026` &nbsp;&nbsp;&nbsp; **Ph.D.** Civil &amp; Environmental Engineering, University of Virginia
 <br>`2020 – 2022` &nbsp;&nbsp;&nbsp; **M.Sc.** Hydroinformatics &amp; Water Management, EuroAquae+ Erasmus Mundus
 <br>`2015 – 2020` &nbsp;&nbsp;&nbsp; **B.Eng.** Harbor, Waterway &amp; Coastal Engineering, Hohai University, China
 
@@ -120,7 +122,8 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 
 ## Experience
 
-`2022 – 2025` &nbsp;&nbsp;&nbsp; **Coastal &amp; Hydroinformatics Engineer**, Smith Warner International, Jamaica
+`2026 – present` &nbsp; **Graduate Research Assistant**, Johns Hopkins University, Baltimore, MD
+<br>`2022 – 2025` &nbsp;&nbsp;&nbsp; **Coastal &amp; Hydroinformatics Engineer**, Smith Warner International, Jamaica
 <br>`2022` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Smart Water Engineer**, SUEZ, Paris
 <br>`2021` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lead Data Analyst**, Remote, France
 
@@ -141,7 +144,7 @@ Open to collaborations in flood forecasting, coastal resilience, and AI/ML for w
 <br><br>
 <a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect"/></a>
 <br><br>
-<sub>Hydrosense Lab · University of Virginia · Charlottesville, VA</sub>
+<sub>Johns Hopkins University · Baltimore, MD</sub>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4a5568,30:2d3748,60:1a2332,100:0d1117&amp;height=120&amp;section=footer"/>
