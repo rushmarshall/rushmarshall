@@ -1,15 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:1a2332,60:2d3748,100:4a5568&amp;height=220&amp;section=header&amp;text=Sebastian%20R.O.%20Marshall&amp;fontSize=36&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=34&amp;desc=Ph.D.%20Researcher%20%C2%B7%20Water%20Resources%20%26amp%3B%20AI&amp;descSize=15&amp;descColor=94a3b8&amp;descAlignY=54"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:03101a,45:072634,100:0a3a4a&amp;height=220&amp;section=header&amp;text=Sebastian%20R.O.%20Marshall&amp;fontSize=36&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=34&amp;desc=Ph.D.%20Researcher%20%C2%B7%20Johns%20Hopkins%20University&amp;descSize=15&amp;descColor=8fe3f0&amp;descAlignY=54"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=300&amp;size=14&amp;duration=3000&amp;pause=1200&amp;color=64748B&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI-driven+flood+forecasting+for+250K%2B+coastal+residents;National+Water+Center+Innovators+Fellow+%C2%B7+CUAHSI;Erasmus+Mundus+Scholar+%C2%B7+European+Union;CHEC+Scholar+%C2%B7+China+Harbour+Engineering;Jamaica+%E2%86%92+France+%E2%86%92+China+%E2%86%92+USA+%7C+7+countries%2C+2+languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=300&amp;size=14&amp;duration=3000&amp;pause=1200&amp;color=0e7490&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI-driven+flood+forecasting+for+250K%2B+coastal+residents;National+Water+Center+Innovators+Fellow+%C2%B7+CUAHSI;Erasmus+Mundus+Scholar+%C2%B7+European+Union;CHEC+Scholar+%C2%B7+China+Harbour+Engineering;Jamaica+%E2%86%92+France+%E2%86%92+China+%E2%86%92+USA+%7C+7+countries%2C+2+languages" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
+<a href="https://rushmarshall.github.io"><img src="https://img.shields.io/badge/Portfolio-rushmarshall.github.io-0e7490?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Scholar"/></a>&nbsp;
 <a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID"/></a>&nbsp;
 <a href="https://www.researchgate.net/profile/Sebastian-Marshall"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&amp;logo=researchgate&amp;logoColor=white" alt="ResearchGate"/></a>&nbsp;
-<a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/Space4Water-1e3a5f?style=flat-square" alt="Space4Water"/></a>
+<a href="https://www.space4water.org/bibcite/contributor/1088"><img src="https://img.shields.io/badge/Space4Water-0e7490?style=flat-square" alt="Space4Water"/></a>
 </p>
 
 <img width="100%" src="./assets/water-flow.svg"/>
@@ -23,8 +24,8 @@ Ph.D. researcher at **Johns Hopkins University** in the Department of Environmen
 Licensed Professional Engineer with research spanning 7 countries and fluency in English and Mandarin Chinese.
 
 <p align="center">
-<img src="https://img.shields.io/badge/H--Index:_3-1e3a5f?style=flat-square" alt="H-Index"/>&nbsp;
-<img src="https://img.shields.io/badge/Citations:_155+-4285F4?style=flat-square" alt="Citations"/>&nbsp;
+<img src="https://img.shields.io/badge/H--Index:_3-0e7490?style=flat-square" alt="H-Index"/>&nbsp;
+<img src="https://img.shields.io/badge/Citations:_155+-0e7490?style=flat-square" alt="Citations"/>&nbsp;
 <img src="https://img.shields.io/badge/Publications:_4-34a853?style=flat-square" alt="Publications"/>&nbsp;
 <img src="https://img.shields.io/badge/i10--Index:_3-6366f1?style=flat-square" alt="i10-Index"/>
 <br>
@@ -90,7 +91,7 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 <summary>Research Domains</summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/Hydroinformatics-1e3a5f?style=flat-square" alt="Hydroinformatics"/>
+<img src="https://img.shields.io/badge/Hydroinformatics-0e7490?style=flat-square" alt="Hydroinformatics"/>
 <img src="https://img.shields.io/badge/Remote_Sensing-2E7D32?style=flat-square" alt="Remote Sensing"/>
 <img src="https://img.shields.io/badge/ML_/_AI-7c3aed?style=flat-square" alt="ML/AI"/>
 <img src="https://img.shields.io/badge/Climate_Change-b45309?style=flat-square" alt="Climate Change"/>
@@ -114,8 +115,8 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1e3a5f&amp;icon_color=4285F4&amp;text_color=555555&amp;rank_icon=github&amp;custom_title=Stats" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;ring=4285F4&amp;fire=f59e0b&amp;currStreakLabel=1e3a5f&amp;sideLabels=555555&amp;dates=999999&amp;currStreakNum=1e3a5f&amp;sideNums=555555" alt="Streak" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0e7490&amp;icon_color=0e7490&amp;text_color=555555&amp;rank_icon=github&amp;custom_title=Stats" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;ring=0e7490&amp;fire=f59e0b&amp;currStreakLabel=0e7490&amp;sideLabels=555555&amp;dates=999999&amp;currStreakNum=0e7490&amp;sideNums=555555" alt="Streak" width="48%"/>
 </p>
 
 ---
@@ -129,7 +130,7 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 
 <p align="center">
 <br>
-<img src="https://img.shields.io/badge/NWC_Innovators_Fellow-CUAHSI-1e3a5f?style=flat-square" alt="CUAHSI"/>
+<img src="https://img.shields.io/badge/NWC_Innovators_Fellow-CUAHSI-0e7490?style=flat-square" alt="CUAHSI"/>
 <img src="https://img.shields.io/badge/Erasmus_Mundus-EU-0052B4?style=flat-square" alt="EU"/>
 <img src="https://img.shields.io/badge/CHEC_Scholar-China_Harbour_Eng.-dc2626?style=flat-square" alt="CHEC"/>
 <img src="https://img.shields.io/badge/P.E.-Jamaica-f59e0b?style=flat-square" alt="PE"/>
@@ -147,4 +148,4 @@ Open to collaborations in flood forecasting, coastal resilience, and AI/ML for w
 <sub>Johns Hopkins University · Baltimore, MD</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4a5568,30:2d3748,60:1a2332,100:0d1117&amp;height=120&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a3a4a,50:072634,100:03101a&amp;height=120&amp;section=footer"/>
