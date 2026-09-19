@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://sromarshall.github.io"><img src="https://img.shields.io/badge/Portfolio-sromarshall.github.io-0e7490?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://rushmarshall.github.io"><img src="https://img.shields.io/badge/Portfolio-rushmarshall.github.io-0e7490?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/marshallsebastian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Scholar"/></a>&nbsp;
 <a href="https://orcid.org/0009-0001-0853-6200"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID"/></a>&nbsp;
@@ -58,27 +58,27 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 
 ## Open-Source Research Tools
 
-> ### [Caribbean Coastal Resilience](https://github.com/sromarshall/Caribbean-Coastal-Resilience)
+> ### [Caribbean Coastal Resilience](https://github.com/rushmarshall/Caribbean-Coastal-Resilience)
 > Compound flood risk framework for **13 Caribbean Small Island Developing States**. Combines Copula dependence modeling with the Holland wind model and IPCC AR6 sea-level projections to assess concurrent storm surge and extreme rainfall events, protecting **250K+ coastal residents**.
 >
 > `Copula` `Holland Model` `IPCC AR6` `Delft3D` `Compound Flood Risk`
 
-> ### [FloodRisk-HAND](https://github.com/sromarshall/FloodRisk-HAND)
+> ### [FloodRisk-HAND](https://github.com/rushmarshall/FloodRisk-HAND)
 > High-resolution flood inundation mapping integrating NOAA's **Height Above Nearest Drainage (HAND)** with National Water Model forecasts and **CDC Social Vulnerability Index** data. Identifies which communities face the greatest flood risk, not just where water goes, but who it impacts most.
 >
 > `HAND-FIM` `National Water Model` `CDC SVI` `Flood Equity`
 
-> ### [PySWATPlus](https://github.com/sromarshall/PySWATPlus)
+> ### [PySWATPlus](https://github.com/rushmarshall/PySWATPlus)
 > Python framework for **SWAT+ model calibration**, sensitivity analysis, and validation. Implements Dynamically Dimensioned Search (DDS), Particle Swarm Optimization, GLUE uncertainty analysis, and Sobol sensitivity, automating what traditionally takes weeks of manual parameter tuning.
 >
 > `DDS` `PSO` `GLUE` `Sobol` `SWAT+`
 
-> ### [CMIP6-Downloader](https://github.com/sromarshall/CMIP6-Downloader)
+> ### [CMIP6-Downloader](https://github.com/rushmarshall/CMIP6-Downloader)
 > Automated pipeline for downloading and processing climate projections from **61 Global Climate Models** across **197 countries** and all SSP scenarios. Includes bias correction workflows to convert raw GCM output into locally relevant climate data for impact assessment.
 >
 > `OPeNDAP` `Bias Correction` `61 GCMs` `197 Countries`
 
-> ### [LISF-Toolkit](https://github.com/sromarshall/LISF-Toolkit)
+> ### [LISF-Toolkit](https://github.com/rushmarshall/LISF-Toolkit)
 > Streamlined toolkit for accessing and processing **NASA Land Information System Framework** data products. Handles authentication, spatial/temporal subsetting, and format conversion for MODIS, ERA5, and other satellite-derived datasets used in land surface modeling.
 >
 > `earthaccess` `xarray` `MODIS` `ERA5` `NASA LISF`
@@ -113,8 +113,8 @@ Licensed Professional Engineer with research spanning 7 countries and fluency in
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sromarshall&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0e7490&amp;icon_color=0e7490&amp;text_color=555555&amp;rank_icon=github&amp;custom_title=Stats" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sromarshall&amp;hide_border=true&amp;background=00000000&amp;ring=0e7490&amp;fire=f59e0b&amp;currStreakLabel=0e7490&amp;sideLabels=555555&amp;dates=999999&amp;currStreakNum=0e7490&amp;sideNums=555555" alt="Streak" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0e7490&amp;icon_color=0e7490&amp;text_color=555555&amp;rank_icon=github&amp;custom_title=Stats" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;ring=0e7490&amp;fire=f59e0b&amp;currStreakLabel=0e7490&amp;sideLabels=555555&amp;dates=999999&amp;currStreakNum=0e7490&amp;sideNums=555555" alt="Streak" width="48%"/>
 </p>
 
 ---
