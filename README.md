@@ -16,11 +16,7 @@
 
 ### About me
 
-I work at the intersection of climate science, hydrology, remote sensing, and environmental data science, with a focus on understanding how climate and environmental hazards affect water resources, agricultural systems, and human health.
-
-As a Ph.D. researcher at **Johns Hopkins University**, my work integrates satellite Earth observations, hydrological and Earth system modeling, statistical methods, and machine learning to investigate climate and environmental risks across interconnected natural and human systems. I am particularly interested in how environmental variability and extremes translate into broader impacts on food security, population health, and societal resilience.
-
-My current research explores drought dynamics and their implications for agricultural production, the vulnerability of national crop portfolios to concurrent climate extremes, and connections between soil moisture conditions and population health. I also investigate satellite-informed hydrology, flood inundation modeling, and data assimilation, with an emphasis on improving the reliability and practical value of environmental predictions. I welcome opportunities for research collaborations, fellowships, and interdisciplinary projects across academia, industry, and government.
+I work at the intersection of climate science, hydrology, remote sensing, and environmental data science, with a focus on understanding how climate and environmental hazards affect water resources, agricultural systems, and human health. As a Ph.D. researcher at **Johns Hopkins University**, my work integrates satellite Earth observations, hydrological and Earth system modeling, statistical methods, and machine learning to investigate climate and environmental risks across interconnected natural and human systems. I am particularly interested in how environmental variability and extremes translate into broader impacts on food security, population health, and societal resilience. My current research explores drought dynamics and their implications for agricultural production, the vulnerability of national crop portfolios to concurrent climate extremes, and connections between soil moisture conditions and population health. I also investigate satellite-informed hydrology, flood inundation modeling, and data assimilation, with an emphasis on improving the reliability and practical value of environmental predictions. I welcome opportunities for research collaborations, fellowships, and interdisciplinary projects across academia, industry, and government.
 
 <p align="center">
 <!-- STATS:START -->
@@ -93,12 +89,10 @@ My current research explores drought dynamics and their implications for agricul
 <img src="https://img.shields.io/badge/Coasts_%26_Water_Systems-0e7490?style=flat-square" alt="Coasts & Water Systems"/>
 </p>
 
-Most of my code is research code: reproducible Python pipelines that join satellite soil moisture, reanalysis and gauge records, hydrological models (SWAT, HAND flood mapping), and ensemble data assimilation. The code behind my 2026 *Journal of Hydrology* paper on SMAP soil-moisture assimilation over the Mekong is public: [mekong-swat-smap-enkf](https://github.com/rushmarshall/mekong-swat-smap-enkf).
-
 ### GitHub activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590" alt="Contribution streak" width="58%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;stroke=7d859055&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590&amp;card_width=450&amp;card_height=170&amp;short_numbers=true" alt="Contribution streak" width="420"/>
 </p>
 
 <p align="center">
