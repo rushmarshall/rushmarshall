@@ -80,6 +80,14 @@ I work at the intersection of climate science, hydrology, remote sensing, and en
 <!-- STATS:START --><!-- STATS:END -->
 </p>
 
+<p align="center">
+{badge("CUAHSI", TEAL, label="Innovators Fellow", alt="CUAHSI")}
+{badge("European Union", SKY, label="Erasmus Mundus", alt="Erasmus Mundus")}
+{badge("China Harbour Engineering", SEA, label="CHEC Scholar", alt="CHEC")}
+{badge("Jamaica", AMBER, label="P.E.", alt="P.E.")}
+<br><sub>ASCE · EWRI · AGU · AWWA · COPRI · JIE Jamaica</sub>
+</p>
+
 ### Technical skills
 
 {skills}
@@ -87,21 +95,15 @@ I work at the intersection of climate science, hydrology, remote sensing, and en
 ### What I work on
 
 <p align="center">
-{chr(10).join(badge(t, c) for t, c in DOMAINS)}
+{chr(10).join(badge(t, c) for t, c in DOMAINS[:4])}
+<br>
+{chr(10).join(badge(t, c) for t, c in DOMAINS[4:])}
 </p>
 
 ### GitHub activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;stroke=7d859055&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590&amp;card_width=450&amp;card_height=170&amp;short_numbers=true" alt="Contribution streak" width="420"/>
-</p>
-
-<p align="center">
-{badge("CUAHSI", TEAL, label="Innovators Fellow", alt="CUAHSI")}
-{badge("European Union", SKY, label="Erasmus Mundus", alt="Erasmus Mundus")}
-{badge("China Harbour Engineering", SEA, label="CHEC Scholar", alt="CHEC")}
-{badge("Jamaica", AMBER, label="P.E.", alt="P.E.")}
-<br><sub>ASCE · EWRI · AGU · AWWA · COPRI · JIE Jamaica</sub>
 </p>
 
 <p align="center">

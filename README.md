@@ -29,6 +29,14 @@ I work at the intersection of climate science, hydrology, remote sensing, and en
 <!-- STATS:END -->
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Innovators_Fellow-CUAHSI-0e7490?style=flat-square" alt="CUAHSI"/>
+<img src="https://img.shields.io/badge/Erasmus_Mundus-European_Union-0284c7?style=flat-square" alt="Erasmus Mundus"/>
+<img src="https://img.shields.io/badge/CHEC_Scholar-China_Harbour_Engineering-0f766e?style=flat-square" alt="CHEC"/>
+<img src="https://img.shields.io/badge/P.E.-Jamaica-d97706?style=flat-square" alt="P.E."/>
+<br><sub>ASCE · EWRI · AGU · AWWA · COPRI · JIE Jamaica</sub>
+</p>
+
 ### Technical skills
 
 <table width="100%">
@@ -83,6 +91,7 @@ I work at the intersection of climate science, hydrology, remote sensing, and en
 <img src="https://img.shields.io/badge/Climate_%26_Food_Systems-0e7490?style=flat-square" alt="Climate & Food Systems"/>
 <img src="https://img.shields.io/badge/Climate_%26_Health-0891b2?style=flat-square" alt="Climate & Health"/>
 <img src="https://img.shields.io/badge/Water_Cycle_from_Space-0284c7?style=flat-square" alt="Water Cycle from Space"/>
+<br>
 <img src="https://img.shields.io/badge/Data_Assimilation-1d6fa5?style=flat-square" alt="Data Assimilation"/>
 <img src="https://img.shields.io/badge/Floods_%26_Rivers-0f766e?style=flat-square" alt="Floods & Rivers"/>
 <img src="https://img.shields.io/badge/AI_%26_Statistics-059669?style=flat-square" alt="AI & Statistics"/>
@@ -93,14 +102,6 @@ I work at the intersection of climate science, hydrology, remote sensing, and en
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;stroke=7d859055&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590&amp;card_width=450&amp;card_height=170&amp;short_numbers=true" alt="Contribution streak" width="420"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Innovators_Fellow-CUAHSI-0e7490?style=flat-square" alt="CUAHSI"/>
-<img src="https://img.shields.io/badge/Erasmus_Mundus-European_Union-0284c7?style=flat-square" alt="Erasmus Mundus"/>
-<img src="https://img.shields.io/badge/CHEC_Scholar-China_Harbour_Engineering-0f766e?style=flat-square" alt="CHEC"/>
-<img src="https://img.shields.io/badge/P.E.-Jamaica-d97706?style=flat-square" alt="P.E."/>
-<br><sub>ASCE · EWRI · AGU · AWWA · COPRI · JIE Jamaica</sub>
 </p>
 
 <p align="center">
