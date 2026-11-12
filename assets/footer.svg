@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="rushmarshall.github.io">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#03101a"/><stop offset=".5" stop-color="#06212f"/><stop offset="1" stop-color="#03101a"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="96" rx="20"/></clipPath>
+    <style>
+      .ring{fill:none;stroke:#8fe3f0;stroke-width:1}
+      .flow{fill:none;stroke:#8fe3f0;stroke-width:1.1;stroke-linecap:round;stroke-dasharray:80 40;animation:run 30s linear infinite}
+      @keyframes run{to{stroke-dashoffset:-1200}}
+      @media (prefers-reduced-motion:reduce){.flow{animation:none}}
+      .t{font:400 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#bccdd4}
+      .m{font:400 12px ui-monospace,'SF Mono',Menlo,Consolas,monospace;fill:#5fb6cf;letter-spacing:2px}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="96" fill="url(#bg)"/>
+    <g opacity=".3">
+      <g transform="translate(110 48)"><ellipse class="ring" rx="14" ry="9"/><ellipse class="ring" rx="30" ry="19"/><ellipse class="ring" rx="48" ry="31" opacity=".6"/></g>
+      <g transform="translate(1090 48)"><ellipse class="ring" rx="14" ry="9"/><ellipse class="ring" rx="30" ry="19"/><ellipse class="ring" rx="48" ry="31" opacity=".6"/></g>
+      <path class="flow" d="M-20 30 C200 80 400 0 600 44 S1000 90 1220 30"/>
+      <path class="flow" d="M-20 72 C220 30 420 96 620 60 S1020 20 1220 70"/>
+    </g>
+    <text class="m" x="600" y="42" text-anchor="middle">JOHNS HOPKINS UNIVERSITY · BALTIMORE, MD</text>
+    <text class="t" x="600" y="66" text-anchor="middle">rushmarshall.github.io</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="95" rx="20" fill="none" stroke="#e9f6fc" stroke-opacity=".14"/>
+</svg>
