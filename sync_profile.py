@@ -34,13 +34,23 @@ def stat(page, attr):
     return int(m.group(1)) if m else None
 
 
+def badge(label, value, color):
+    enc = lambda t: t.replace("-", "--").replace("_", "__").replace(" ", "_").replace("+", "%2B")
+    return (f'<img src="https://img.shields.io/badge/{enc(label)}-{enc(value)}-{color}?style=flat-square" '
+            f'alt="{label}: {value}"/>')
+
+
 def render_stats(pubs, page, today):
-    c, h = stat(page, "citations"), stat(page, "hindex")
+    c, h, i10 = stat(page, "citations"), stat(page, "hindex"), stat(page, "i10")
     if c is None or h is None:
         raise ValueError("site page carries no citation or h-index marker")
-    n = len(pubs)
-    return (f'{STATS[0]}<b>{n} publication{"" if n == 1 else "s"} · {c}+ citations</b><br>'
-            f'h-index {h} · Google Scholar, {today:%B %Y}{STATS[1]}')
+    cells = [badge("Citations", f"{c}+", "0e7490"), badge("h-index", str(h), "0891b2")]
+    if i10 is not None:
+        cells.append(badge("i10-index", str(i10), "0284c7"))
+    cells += [badge("Publications", str(len(pubs)), "0f766e"), badge("P.E.", "Licensed", "d97706")]
+    return (STATS[0] + "\n" + "&nbsp;\n".join(cells) + "\n"
+            + f'<br><sub>Google Scholar, {today:%B %Y} · '
+              f'<a href="https://scholar.google.com/citations?user=uck5WJAAAAAJ">verify</a></sub>\n' + STATS[1])
 
 
 def render_pubs(pubs):
@@ -88,7 +98,8 @@ def selftest():
     day = dt.date(2026, 11, 12)
     out = build(readme, pubs, page, day)
     assert build(out, pubs, page, day) == out, "render twice != render once"
-    assert "<b>3 publications · 200+ citations</b><br>h-index 5 · Google Scholar, November 2026" in out
+    assert "badge/Citations-200%2B-0e7490" in out and "badge/h--index-5-0891b2" in out and "badge/Publications-3-0f766e" in out
+    assert "Google Scholar, November 2026" in out and "i10--index" not in out
     lines = [l for l in out.splitlines() if l.startswith("- **")]
     assert [l.split("**")[1] for l in lines] == ["Cited paper.", "New paper &amp; more.", "Old chapter."], lines
     assert "*Journal of Hydrology* 681, 136599 (2026). [Paper](https://doi.org/10.1016/j.jhydrol.2026.136599) · [Code](" in lines[1]
