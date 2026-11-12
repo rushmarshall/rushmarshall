@@ -26,7 +26,6 @@ STATS = ("<!-- STATS:START -->", "<!-- STATS:END -->")
 PUBS = ("<!-- PUBS:START -->", "<!-- PUBS:END -->")
 # code repositories that belong to a paper, keyed by DOI
 CODE = {"10.1016/j.jhydrol.2026.136599": "https://github.com/rushmarshall/mekong-swat-smap-enkf"}
-BOOK_PREFIXES = ("10.1007/978-",)  # book chapters are labelled "Chapter", everything else "Paper"
 
 
 def stat(page, attr):
@@ -61,14 +60,11 @@ def render_pubs(pubs):
         m = re.match(r"^(.*?)(?=[,\s]+\d)", venue)  # the journal or book name runs up to the first number
         journal = m.group(1) if m else venue
         tail = venue[len(journal):]
-        line = f"- **{title}.** *{journal}*{tail} ({p['year']})."
-        links = []
-        if p.get("doi"):
-            label = "Chapter" if p["doi"].startswith(BOOK_PREFIXES) else "Paper"
-            links.append(f"[{label}](https://doi.org/{p['doi']})")
-            if p["doi"] in CODE:
-                links.append(f"[Code]({CODE[p['doi']]})")
-        out.append(line + (" " + " · ".join(links) if links else ""))
+        head = f'<a href="https://doi.org/{p["doi"]}"><b>{title}</b></a>' if p.get("doi") else f"<b>{title}</b>"
+        meta = f"<i>{journal}</i>{tail} ({p['year']})"
+        if p.get("doi") in CODE:
+            meta += f' · <a href="{CODE[p["doi"]]}">Code</a>'
+        out.append(f"- {head}<br><sub>{meta}</sub>")
     out.append(PUBS[1])
     return "\n".join(out)
 
@@ -80,7 +76,8 @@ def swap(text, marks, block):
 
 
 def build(readme, pubs, page, today):
-    return swap(swap(readme, STATS, render_stats(pubs, page, today)), PUBS, render_pubs(pubs))
+    out = swap(readme, STATS, render_stats(pubs, page, today))
+    return swap(out, PUBS, render_pubs(pubs)) if PUBS[0] in out else out  # the publication list is optional
 
 
 def git(*args):
@@ -100,12 +97,14 @@ def selftest():
     assert build(out, pubs, page, day) == out, "render twice != render once"
     assert "badge/Citations-200%2B-0e7490" in out and "badge/h--index-5-0891b2" in out and "badge/Publications-3-0f766e" in out
     assert "Google Scholar, November 2026" in out and "i10--index" not in out
-    lines = [l for l in out.splitlines() if l.startswith("- **")]
-    assert [l.split("**")[1] for l in lines] == ["Cited paper.", "New paper &amp; more.", "Old chapter."], lines
-    assert "*Journal of Hydrology* 681, 136599 (2026). [Paper](https://doi.org/10.1016/j.jhydrol.2026.136599) · [Code](" in lines[1]
-    assert "*Earth Systems and Environment* 10(1), 553-575 (2026)." in lines[0] and "[" not in lines[0]
-    assert "*A Book*, 1-2 (2022). [Chapter](https://doi.org/10.1007/978-1-2-3_4)" in lines[2]
+    lines = [l for l in out.splitlines() if l.startswith("- ")]
+    assert [re.search(r"<b>(.*?)</b>", l).group(1) for l in lines] == ["Cited paper", "New paper &amp; more", "Old chapter"], lines
+    assert '<a href="https://doi.org/10.1016/j.jhydrol.2026.136599"><b>New paper &amp; more</b></a><br><sub><i>Journal of Hydrology</i> 681, 136599 (2026) · <a href="https://github.com/' in lines[1]
+    assert lines[0] == "- <b>Cited paper</b><br><sub><i>Earth Systems and Environment</i> 10(1), 553-575 (2026)</sub>", lines[0]
+    assert "<i>A Book</i>, 1-2 (2022)</sub>" in lines[2] and "doi.org/10.1007/978-1-2-3_4" in lines[2]
     assert out.startswith("top\n") and out.endswith("end\n") and "\nmid\n" in out, "text outside the markers must not change"
+    bare = f"top {STATS[0]}x{STATS[1]} end"
+    assert "<b>Cited paper</b>" not in build(bare, pubs, page, day) and "Citations-200%2B" in build(bare, pubs, page, day), "no PUBS marker, no list"
     try:
         build(readme, pubs, "no markers", day)
         raise AssertionError("a site page without markers must raise")
