@@ -23,7 +23,7 @@ Before the doctorate I spent nearly three years as a coastal and hydrodynamics p
 <table>
   <tr>
     <td width="33%" valign="top"><sub>NOW</sub><br><b>Ph.D. research</b><br>Environmental Health and Engineering, Johns Hopkins University</td>
-    <td width="33%" valign="top"><sub>RECORD</sub><br><b>6 publications · 182+ citations</b><br>h-index 4 · Google Scholar, November 2026</td>
+    <td width="33%" valign="top"><sub>RECORD</sub><br><!-- STATS:START --><b>6 publications · 182+ citations</b><br>h-index 4 · Google Scholar, November 2026<!-- STATS:END --></td>
     <td width="33%" valign="top"><sub>LICENSE</sub><br><b>Professional Engineer (P.E.)</b><br>Professional Engineers Board of Jamaica</td>
   </tr>
 </table>
@@ -47,12 +47,14 @@ Before the doctorate I spent nearly three years as a coastal and hydrodynamics p
 
 ### Selected publications
 
-- **Relative roles of spatial resolution and temporal coverage in basin-average SMAP soil moisture assimilation over the Mekong River basin.** *Journal of Hydrology* 681, 136599 (2026). [Paper](https://doi.org/10.1016/j.jhydrol.2026.136599) · [Code](https://github.com/rushmarshall/mekong-swat-smap-enkf)
-- **A systematic review of the NASA Land Information System (LIS): two decades of advancements in hydrological modeling, data assimilation, and operational earth system applications.** *Journal of Hydrology* 666, 134784 (2026). [Paper](https://doi.org/10.1016/j.jhydrol.2025.134784)
-- **SWAT and CMIP6-driven hydro-climate modeling of future flood risks and vegetation dynamics in the White Oak Bayou Watershed, United States.** *Earth Systems and Environment* 10(1), 553-575 (2026). [Paper](https://doi.org/10.1007/s41748-025-00621-2)
+<!-- PUBS:START -->
 - **Integrating artificial intelligence and machine learning in hydrological modeling for sustainable resource management.** *International Journal of River Basin Management* 24(5), 769-785 (2026). [Paper](https://doi.org/10.1080/15715124.2025.2478280)
+- **SWAT and CMIP6-driven hydro-climate modeling of future flood risks and vegetation dynamics in the White Oak Bayou Watershed, United States.** *Earth Systems and Environment* 10(1), 553-575 (2026). [Paper](https://doi.org/10.1007/s41748-025-00621-2)
+- **A systematic review of the NASA Land Information System (LIS): Two decades of advancements in hydrological modeling, data assimilation, and operational earth system applications.** *Journal of Hydrology* 666, 134784 (2026). [Paper](https://doi.org/10.1016/j.jhydrol.2025.134784)
 - **The Climate and Land-Use Change Feedback in the Congo Basin.** *Resilience and Sustainability in the Congo Basin*, 839-861 (2026). [Chapter](https://doi.org/10.1007/978-1-0716-5512-2_32)
+- **Relative roles of spatial resolution and temporal coverage in basin-average SMAP soil moisture assimilation over the Mekong River basin.** *Journal of Hydrology* 681, 136599 (2026). [Paper](https://doi.org/10.1016/j.jhydrol.2026.136599) · [Code](https://github.com/rushmarshall/mekong-swat-smap-enkf)
 - **Assessment of Terrain Scenario Impacts on Hydrological Simulation with SWAT Model. Application to Lai Giang Catchment, Vietnam.** *Advances in Hydroinformatics*, 1205-1222 (2022). [Chapter](https://doi.org/10.1007/978-981-19-1600-7_77)
+<!-- PUBS:END -->
 
 ### Recognition
 
