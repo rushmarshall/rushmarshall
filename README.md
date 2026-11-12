@@ -56,25 +56,25 @@ Before the doctorate I spent nearly three years as a coastal and hydrodynamics p
 
 ### Recognition
 
-| | | |
-|:--|:--|:--|
-| `2026 – 2027` | **Rajagopalan Family Fellowship** | Johns Hopkins University, Whiting School of Engineering |
-| `2026` | **Water Prediction Innovators Summer Institute Fellow** | The University of Alabama and CUAHSI · one of 24 fellows nationally |
-| `2026` | **Winner, UVA Engineering Research Symposium** | University of Virginia · one of four winners |
-| `2020 – 2022` | **Erasmus Mundus Joint Master's Scholarship** | European Union, EuroAquae+ |
-| `2014 – 2019` | **China Harbour Engineering Company Scholarship** | One of 15 scholars worldwide |
+<table>
+  <tr><td nowrap><code>2026&nbsp;–&nbsp;2027</code></td><td><b>Rajagopalan Family Fellowship</b></td><td>Johns Hopkins University, Whiting School of Engineering</td></tr>
+  <tr><td nowrap><code>2026</code></td><td><b>Water Prediction Innovators Summer Institute Fellow</b></td><td>The University of Alabama and CUAHSI · one of 24 fellows nationally</td></tr>
+  <tr><td nowrap><code>2026</code></td><td><b>Winner, UVA Engineering Research Symposium</b></td><td>University of Virginia · one of four winners</td></tr>
+  <tr><td nowrap><code>2020&nbsp;–&nbsp;2022</code></td><td><b>Erasmus Mundus Joint Master's Scholarship</b></td><td>European Union, EuroAquae+</td></tr>
+  <tr><td nowrap><code>2014&nbsp;–&nbsp;2019</code></td><td><b>China Harbour Engineering Company Scholarship</b></td><td>One of 15 scholars worldwide</td></tr>
+</table>
 
 ### Path
 
-| | | |
-|:--|:--|:--|
-| `2026 – present` | **Ph.D. research, Environmental Health and Engineering** | Johns Hopkins University, Baltimore, MD |
-| `2026` | **Visiting Research Scientist** | CIROH, The University of Alabama and CUAHSI |
-| `2025 – 2026` | **Doctoral studies, Civil and Environmental Engineering** | University of Virginia |
-| `2022 – 2025` | **Junior Coastal and Hydrodynamics Project Engineer** | Smith Warner International, Jamaica |
-| `2022` | **Hydraulic / Smart Water Engineer Intern** | SUEZ, Paris, France |
-| `2020 – 2022` | **M.Sc. Hydroinformatics and Water Management** | EuroAquae+ Erasmus Mundus Joint Master |
-| `2015 – 2019` | **B.Eng. Harbour, Waterway and Coastal Engineering** | Hohai University, Nanjing, China |
+<table>
+  <tr><td nowrap><code>2026&nbsp;–&nbsp;present</code></td><td><b>Ph.D. research, Environmental Health and Engineering</b></td><td>Johns Hopkins University, Baltimore, MD</td></tr>
+  <tr><td nowrap><code>2026</code></td><td><b>Visiting Research Scientist</b></td><td>CIROH, The University of Alabama and CUAHSI</td></tr>
+  <tr><td nowrap><code>2025&nbsp;–&nbsp;2026</code></td><td><b>Doctoral studies, Civil and Environmental Engineering</b></td><td>University of Virginia</td></tr>
+  <tr><td nowrap><code>2022&nbsp;–&nbsp;2025</code></td><td><b>Junior Coastal and Hydrodynamics Project Engineer</b></td><td>Smith Warner International, Jamaica</td></tr>
+  <tr><td nowrap><code>2022</code></td><td><b>Hydraulic / Smart Water Engineer Intern</b></td><td>SUEZ, Paris, France</td></tr>
+  <tr><td nowrap><code>2020&nbsp;–&nbsp;2022</code></td><td><b>M.Sc. Hydroinformatics and Water Management</b></td><td>EuroAquae+ Erasmus Mundus Joint Master</td></tr>
+  <tr><td nowrap><code>2015&nbsp;–&nbsp;2019</code></td><td><b>B.Eng. Harbour, Waterway and Coastal Engineering</b></td><td>Hohai University, Nanjing, China</td></tr>
+</table>
 
 ### Toolkit
 
