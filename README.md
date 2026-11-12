@@ -73,12 +73,12 @@ Before the doctorate I spent nearly three years as a coastal and hydrodynamics p
 
 ## Recognition
 
-<table>
-  <tr><td><img src="https://img.shields.io/badge/2026_%E2%80%93_2027-0a3a4a?style=flat-square" alt="2026 – 2027"/></td><td><b>Rajagopalan Family Fellowship</b><br><sub>Johns Hopkins University, Whiting School of Engineering</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2026-0a3a4a?style=flat-square" alt="2026"/></td><td><b>Water Prediction Innovators Summer Institute Fellow</b><br><sub>The University of Alabama and CUAHSI · one of 24 fellows nationally</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2026-0a3a4a?style=flat-square" alt="2026"/></td><td><b>Winner, UVA Engineering Research Symposium</b><br><sub>University of Virginia · one of four winners</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2020_%E2%80%93_2022-0a3a4a?style=flat-square" alt="2020 – 2022"/></td><td><b>Erasmus Mundus Joint Master's Scholarship</b><br><sub>European Union, EuroAquae+</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2014_%E2%80%93_2019-0a3a4a?style=flat-square" alt="2014 – 2019"/></td><td><b>China Harbour Engineering Company Scholarship</b><br><sub>One of 15 scholars worldwide</sub></td></tr>
+<table width="100%">
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2026_%E2%80%93_2027-0a3a4a?style=flat-square" alt="2026 – 2027"/></td><td><b>Rajagopalan Family Fellowship</b><br><sub>Johns Hopkins University, Whiting School of Engineering</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2026-0a3a4a?style=flat-square" alt="2026"/></td><td><b>Water Prediction Innovators Summer Institute Fellow</b><br><sub>The University of Alabama and CUAHSI · one of 24 fellows nationally</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2026-0a3a4a?style=flat-square" alt="2026"/></td><td><b>Winner, UVA Engineering Research Symposium</b><br><sub>University of Virginia · one of four winners</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2020_%E2%80%93_2022-0a3a4a?style=flat-square" alt="2020 – 2022"/></td><td><b>Erasmus Mundus Joint Master's Scholarship</b><br><sub>European Union, EuroAquae+</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2014_%E2%80%93_2019-0a3a4a?style=flat-square" alt="2014 – 2019"/></td><td><b>China Harbour Engineering Company Scholarship</b><br><sub>One of 15 scholars worldwide</sub></td></tr>
 </table>
 
 <p align="center">
@@ -93,22 +93,22 @@ Before the doctorate I spent nearly three years as a coastal and hydrodynamics p
 
 ## Education
 
-<table>
-  <tr><td><img src="https://img.shields.io/badge/2026_%E2%80%93_present-0a3a4a?style=flat-square" alt="2026 – present"/></td><td><b>Ph.D. research, Environmental Health and Engineering</b><br><sub>Johns Hopkins University, Baltimore, MD</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2025_%E2%80%93_2026-0a3a4a?style=flat-square" alt="2025 – 2026"/></td><td><b>Doctoral studies, Civil and Environmental Engineering</b><br><sub>University of Virginia · GPA 4.0 / 4.0</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2020_%E2%80%93_2022-0a3a4a?style=flat-square" alt="2020 – 2022"/></td><td><b>M.Sc. Hydroinformatics and Water Management</b><br><sub>EuroAquae+ Erasmus Mundus Joint Master · France, United Kingdom, Germany</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2015_%E2%80%93_2019-0a3a4a?style=flat-square" alt="2015 – 2019"/></td><td><b>B.Eng. Harbour, Waterway and Coastal Engineering</b><br><sub>Hohai University, Nanjing, China · GPA 4.7 / 5.0</sub></td></tr>
+<table width="100%">
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2026_%E2%80%93_present-0a3a4a?style=flat-square" alt="2026 – present"/></td><td><b>Ph.D. research, Environmental Health and Engineering</b><br><sub>Johns Hopkins University, Baltimore, MD</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2025_%E2%80%93_2026-0a3a4a?style=flat-square" alt="2025 – 2026"/></td><td><b>Doctoral studies, Civil and Environmental Engineering</b><br><sub>University of Virginia · GPA 4.0 / 4.0</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2020_%E2%80%93_2022-0a3a4a?style=flat-square" alt="2020 – 2022"/></td><td><b>M.Sc. Hydroinformatics and Water Management</b><br><sub>EuroAquae+ Erasmus Mundus Joint Master · France, United Kingdom, Germany</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2015_%E2%80%93_2019-0a3a4a?style=flat-square" alt="2015 – 2019"/></td><td><b>B.Eng. Harbour, Waterway and Coastal Engineering</b><br><sub>Hohai University, Nanjing, China · GPA 4.7 / 5.0</sub></td></tr>
 </table>
 
 ## Experience
 
-<table>
-  <tr><td><img src="https://img.shields.io/badge/2026_%E2%80%93_present-0a3a4a?style=flat-square" alt="2026 – present"/></td><td><b>Graduate Research Assistant</b><br><sub>Johns Hopkins University, Baltimore, MD</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2026-0a3a4a?style=flat-square" alt="2026"/></td><td><b>Visiting Research Scientist</b><br><sub>CIROH, The University of Alabama and CUAHSI</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2025_%E2%80%93_2026-0a3a4a?style=flat-square" alt="2025 – 2026"/></td><td><b>Graduate Research Assistant</b><br><sub>University of Virginia · funded in part by USACE</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2022_%E2%80%93_2025-0a3a4a?style=flat-square" alt="2022 – 2025"/></td><td><b>Junior Coastal and Hydrodynamics Project Engineer</b><br><sub>Smith Warner International, Jamaica</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2022-0a3a4a?style=flat-square" alt="2022"/></td><td><b>Hydraulic / Smart Water Engineer Intern</b><br><sub>SUEZ, Paris, France</sub></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/2021-0a3a4a?style=flat-square" alt="2021"/></td><td><b>Lead Data and Geospatial Analyst</b><br><sub>Smith Warner International, remote from France</sub></td></tr>
+<table width="100%">
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2026_%E2%80%93_present-0a3a4a?style=flat-square" alt="2026 – present"/></td><td><b>Graduate Research Assistant</b><br><sub>Johns Hopkins University, Baltimore, MD</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2026-0a3a4a?style=flat-square" alt="2026"/></td><td><b>Visiting Research Scientist</b><br><sub>CIROH, The University of Alabama and CUAHSI</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2025_%E2%80%93_2026-0a3a4a?style=flat-square" alt="2025 – 2026"/></td><td><b>Graduate Research Assistant</b><br><sub>University of Virginia · funded in part by USACE</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2022_%E2%80%93_2025-0a3a4a?style=flat-square" alt="2022 – 2025"/></td><td><b>Junior Coastal and Hydrodynamics Project Engineer</b><br><sub>Smith Warner International, Jamaica</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2022-0a3a4a?style=flat-square" alt="2022"/></td><td><b>Hydraulic / Smart Water Engineer Intern</b><br><sub>SUEZ, Paris, France</sub></td></tr>
+  <tr><td width="150" align="center"><img src="https://img.shields.io/badge/2021-0a3a4a?style=flat-square" alt="2021"/></td><td><b>Lead Data and Geospatial Analyst</b><br><sub>Smith Warner International, remote from France</sub></td></tr>
 </table>
 
 ---
@@ -116,8 +116,7 @@ Before the doctorate I spent nearly three years as a coastal and hydrodynamics p
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushmarshall&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0e7490&amp;icon_color=0891b2&amp;text_color=7d8590&amp;rank_icon=github&amp;custom_title=Stats" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590" alt="Streak" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590" alt="Contribution streak" width="62%"/>
 </p>
 
 ---
