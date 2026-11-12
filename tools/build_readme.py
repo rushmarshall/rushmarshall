@@ -92,19 +92,24 @@ I work at the intersection of climate science, hydrology, remote sensing, and en
 
 {skills}
 
-### What I work on
+### Focus and activity
 
-<p align="center">
-{chr(10).join(badge(t, c) for t, c in DOMAINS[:4])}
-<br>
-{chr(10).join(badge(t, c) for t, c in DOMAINS[4:])}
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### GitHub activity
+<b>What I work on</b><br>
+{" ".join(badge(t, c) for t, c in DOMAINS)}
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;stroke=7d859055&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590&amp;card_width=450&amp;card_height=170&amp;short_numbers=true" alt="Contribution streak" width="420"/>
-</p>
+</td>
+<td width="50%" valign="top" align="center">
+
+<b>GitHub activity</b><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushmarshall&amp;hide_border=true&amp;background=00000000&amp;stroke=7d859055&amp;ring=0e7490&amp;fire=d97706&amp;currStreakLabel=0e7490&amp;sideLabels=7d8590&amp;dates=7d8590&amp;currStreakNum=0891b2&amp;sideNums=7d8590&amp;card_width=420&amp;card_height=150&amp;short_numbers=true" alt="Contribution streak" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 Open to collaborations on climate extremes, water, food and health.
