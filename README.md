@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rushmarshall.github.io"><img src="assets/header.svg" width="100%" alt="Sebastian R.O. Marshall, Climate Scientist and Ph.D. Researcher, Johns Hopkins University"/></a>
+  <a href="https://rushmarshall.github.io"><img src="assets/header.png" width="100%" alt="Sebastian R.O. Marshall, Climate Scientist and Ph.D. Researcher, Johns Hopkins University"/></a>
 </p>
 
 <p align="center">
