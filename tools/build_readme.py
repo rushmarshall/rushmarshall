@@ -28,11 +28,6 @@ def badge(text, color, logo=None, label=None, alt=None, style="flat-square"):
     return f'<img src="{u}" alt="{alt or text}"/>'
 
 
-def two(left, right):
-    return ('<table width="100%">\n<tr>\n<td width="50%" valign="top">\n\n' + left + '\n\n</td>\n<td width="50%" valign="top">\n\n'
-            + right + "\n\n</td>\n</tr>\n</table>")
-
-
 SKILLS = [
     ("Programming Languages", TEAL, [("Python", "python"), ("R", "r"), ("SQL", "postgresql"), ("MATLAB", None), ("JavaScript", "javascript"), ("C#", None)]),
     ("Machine Learning &amp; Data Science", CYAN, [("TensorFlow", "tensorflow"), ("PyTorch", "pytorch"), ("scikit-learn", "scikitlearn"), ("XGBoost", None), ("Pandas", "pandas"), ("NumPy", "numpy"), ("xarray", None)]),
@@ -59,7 +54,8 @@ def skill_cell(g):
 def build():
     typing = ("https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=13&amp;duration=3000&amp;pause=1200"
               "&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=28&amp;lines=" + ";".join(U.quote_plus(l) for l in TYPING))
-    skills = "\n".join(two(skill_cell(SKILLS[i]), skill_cell(SKILLS[i + 1])) for i in (0, 2, 4))
+    cell = lambda g: f'<td width="50%" valign="top">\n\n{skill_cell(g)}\n\n</td>'
+    skills = ('<table width="100%">\n' + "\n".join(f"<tr>\n{cell(SKILLS[i])}\n{cell(SKILLS[i + 1])}\n</tr>" for i in (0, 2, 4)) + "\n</table>")
     return f'''<p align="center">
   <a href="https://rushmarshall.github.io"><img src="assets/header.svg" width="100%" alt="Sebastian R.O. Marshall, Climate Scientist and Ph.D. Researcher, Johns Hopkins University"/></a>
 </p>

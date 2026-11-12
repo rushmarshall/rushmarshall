@@ -50,8 +50,6 @@ My current research explores drought dynamics and their implications for agricul
 
 </td>
 </tr>
-</table>
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -66,8 +64,6 @@ My current research explores drought dynamics and their implications for agricul
 
 </td>
 </tr>
-</table>
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
