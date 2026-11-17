@@ -20,7 +20,7 @@ I work at the intersection of climate science, hydrology, remote sensing, and en
 
 <p align="center">
 <!-- STATS:START -->
-<img src="https://img.shields.io/badge/Citations-182%2B-0e7490?style=flat-square" alt="Citations: 182+"/>&nbsp;
+<img src="https://img.shields.io/badge/Citations-185%2B-0e7490?style=flat-square" alt="Citations: 185+"/>&nbsp;
 <img src="https://img.shields.io/badge/h--index-4-0891b2?style=flat-square" alt="h-index: 4"/>&nbsp;
 <img src="https://img.shields.io/badge/i10--index-3-0284c7?style=flat-square" alt="i10-index: 3"/>&nbsp;
 <img src="https://img.shields.io/badge/Publications-6-0f766e?style=flat-square" alt="Publications: 6"/>&nbsp;
